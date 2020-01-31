@@ -13,12 +13,12 @@ subtitle: Assistant Professor, Department of Statistics, Oklahoma State Universi
 	<div class="col-md-6">
 	<h3>Contact:</h3>
 		<p> <a href = "http://statistics.okstate.edu" target = "_blank"> Department of Statistics</a> <br>
-		<a href="https://go.okstate.edu/"> Oklahoma State University </a> <br>
+		<a href="https://go.okstate.edu/" target = "_blank"> Oklahoma State University </a> <br>
 		301D MSCS <br>
 		Stillwater, OK 74078 <br>
 		<strong>Email:</strong> prudra [at] okstate.edu <br>
 		<strong>Phone:</strong> +1 405-744-9660 <br>
-		<a href = "http://statistics.okstate.edu/images/documents/CV_PratyaydiptaRudra.pdf"> Curriculum Vitae </a>
+		<a href = "http://statistics.okstate.edu/images/documents/CV_PratyaydiptaRudra.pdf" target = "_blank"> Curriculum Vitae </a>
 		</p>
 	</div>
 </div>
