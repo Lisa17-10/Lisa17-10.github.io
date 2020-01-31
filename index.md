@@ -23,19 +23,9 @@ subtitle: Assistant Professor, Department of Statistics, Oklahoma State Universi
 </div>
 	
 <hr>
-
-</div>
-
-<div class="row">
-	<div class="col-md-8">
-		<h3>NEWS:</h3>
-		
-	</div>	
 	
 
 	
-	
-<div class="row">&nbsp;</div>
 
 
 		
