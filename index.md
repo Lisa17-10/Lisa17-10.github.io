@@ -12,7 +12,7 @@ subtitle: Assistant Professor, Department of Statistics, Oklahoma State Universi
 	</div>
 	<div class="col-md-6">
 	<h3>Contact:</h3>
-		<p> <a href = "http://statistics.okstate.edu", target = "_blank> Department of Statistics</a> <br>
+		<p> <a href = "http://statistics.okstate.edu", target = "_blank"> Department of Statistics</a> <br>
 		<a href="https://go.okstate.edu/"> Oklahoma State University </a> <br>
 		301D MSCS <br>
 		Stillwater, OK 74078 <br>
