@@ -20,11 +20,14 @@ description: Personal website
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "index"
   Research:
     - Research Interest: "research"
     - Publications: "publications"
     - Presentations: "presentations"
   Teaching: "teaching"
+  Service: "service"
+  Personal: "personal"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -43,7 +46,7 @@ navbar-text-col: "#e6e6e6"
 navbar-children-col: "#999999"
 page-col: "#FFFFFF"
 link-col: "#005fb3"
-hover-col: "#260d0d"
+hover-col: "#4c1a1a"
 footer-col: "#f2f2f2"
 footer-text-col: "#999999"
 footer-link-col: "#404040"
