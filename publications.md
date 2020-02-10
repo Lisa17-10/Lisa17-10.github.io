@@ -3,7 +3,7 @@ layout: page
 title: Publications
 --- 
 
-<font size="6"> <center><a href = "https://scholar.google.com/citations?user=6cA42HwAAAAJ" target = "_blank">Google Scholar Profile</a></center> </font>
+<font size="4"> <center><a href = "https://scholar.google.com/citations?user=6cA42HwAAAAJ" target = "_blank">Google Scholar Profile</a></center> </font>
 
 
 ### Publications in Peer-reviewed Journals
