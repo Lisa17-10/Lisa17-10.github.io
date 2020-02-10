@@ -9,4 +9,8 @@ title: Software
 
 2. Wright F, Sypa M, Li Z, Zhabotynsky V, Zhou Y, **Rudra P**, Idowu S, Rusyn I (2013) ["DR Pathway GUI"](http://www.comptox.us/DRPathway.php).
 
+### Codes for implementing statistical methods and replicating analysis
 
+1. [Codes for Multi-omics Bayesian network, Rudra et al (2017), BMC Genomics](https://github.com/pratyayr/Multi-Omics-Bayesian-Network)
+
+2. [Codes for batch normalization for mass cytometry data, Schuyler et al (2019), Frontiers in Immunology](https://github.com/CUHIMSR/CytofBatchAdjust)
