@@ -11,6 +11,6 @@ title: Software
 
 ### Codes for implementing statistical methods and replicating analysis
 
-1. [Codes for Multi-omics Bayesian network, Rudra et al (2017), BMC Genomics](https://github.com/pratyayr/Multi-Omics-Bayesian-Network)
+1. [Codes for Multi-omics Bayesian network](https://github.com/pratyayr/Multi-Omics-Bayesian-Network), Rudra et al (2017), BMC Genomics
 
-2. [Codes for batch normalization for mass cytometry data, Schuyler et al (2019), Frontiers in Immunology](https://github.com/CUHIMSR/CytofBatchAdjust)
+2. [Codes for batch normalization for mass cytometry data](https://github.com/CUHIMSR/CytofBatchAdjust), Schuyler et al (2019), Frontiers in Immunology
