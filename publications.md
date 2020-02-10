@@ -6,7 +6,7 @@ title: Publications
 <div class="row">&nbsp;</div>
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="https://store-images.s-microsoft.com/image/apps.6287.14514296758674918.de7d5037-39e7-4c0a-b6bb-7346f5e3787c.8099b1a2-2ae0-41d0-8b74-5ace1c2d9a8a?mode=scale&q=90&h=270&w=270&background=%230078D7" class="img-responsive" alt="Google Scholar icon" height = 40 width =40></a>
+		<img src="https://store-images.s-microsoft.com/image/apps.6287.14514296758674918.de7d5037-39e7-4c0a-b6bb-7346f5e3787c.8099b1a2-2ae0-41d0-8b74-5ace1c2d9a8a?mode=scale&q=90&h=270&w=270&background=%230078D7" class="img-responsive" alt="Google Scholar icon" height = 40 width =40/></a>
 	</div>
 	<div class="col-md-6">
 		 <p> <a href = "https://scholar.google.com/citations?user=6cA42HwAAAAJ" target = "_blank"> Google Scholar Profile</a> 
