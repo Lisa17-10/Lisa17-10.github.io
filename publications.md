@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 
+[Google Scholar Profile]("https://scholar.google.com/citations?user=6cA42HwAAAAJ")
+
 ### Publications in Peer-reviewed Journals
 1. **Rudra, P.**, Cruz-Cortes, E., Zhang, X., Ghosh, D. (2019). "Multiple testing approaches for hypotheses in integrative genomics". *Wiley Interdisciplinary Reviews: Computational Statistics*, Accepted. Early view online.
 
