@@ -3,7 +3,7 @@ layout: page
 title: Research Interests
 ---
 
-** Summary of research interests **
+**Summary of research interests**
 
 * Statistical Genomics
 * Multiple Hypothesis Testing
