@@ -17,13 +17,14 @@ Analysis of variance, experimental designs pertaining to medical research, regre
 **STAT 4043: Applied Regression Analysis (Graduate, Undergrad).** *(Fall 2018 - Spring 2020)*  
 Matrix algebra, simple linear regression, residual analysis techniques, multiple regression, dummy variables.
 
+<br>
 
 ### Classes taught at University of Colorado, Denver
 
 **BIOS 6606: Statistics for Basic Sciences (Graduate)** *(Fall 2017)*  
 This course is designed for those wishing to obtain a basic understanding of statistics and its applications in biological research. Students will develop statistical literacy and an ability to perform basic statistical analyses, basic graphical statistics, data summarizations, and estimation and inference using statistical software.
 
-
+<br>
 
 ### Guest lectures at University of Colorado, Denver
 
