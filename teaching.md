@@ -5,7 +5,7 @@ title: Teaching
 
 ### Classes taught at Oklahoma State University
 
-**STAT 5013: Statistics for Experimenters I (Graduate).** *(Fall 2018, Fall 2019)*  
+**STAT 5013: Statistics for Experimenters I (Graduate).** *(Fall 2018, Fall 2019, Fall 2020)*  
 Introductory statistics course for graduate students. Descriptive statistics, basic probability, estimation, hypothesis testing, p-values, analysis of variance, multiple comparisons, correlation and linear regression, categorical data analysis. 
 
 **STAT 5023: Statistics for Experimenters II (Graduate).** *(Spring 2019)*  
@@ -14,8 +14,11 @@ Analysis of variance, contrasts and multiple comparisons, factorial experiments,
 **STAT 5083: Statistics for Biomedical Researchers (Graduate).** *(Spring 2020)*  
 Analysis of variance, experimental designs pertaining to medical research, regression and data modeling, categorical techniques and the evaluation of diagnostic tests.
 
-**STAT 4043: Applied Regression Analysis (Graduate, Undergrad).** *(Fall 2018 - Spring 2020)*  
+**STAT 4043: Applied Regression Analysis (Graduate, Undergrad).** *(Fall 2018 - Spring 2021)*  
 Matrix algebra, simple linear regression, residual analysis techniques, multiple regression, dummy variables.
+
+**STAT 6203: Large Sample Inference (Graduate).** *(Spring 2021)*  
+Different types of convergence in probability theory, central limit theorem, consistency, large sample estimation and tests of hypotheses, concepts of asymptotic efficiency, nonparametric tests.
 
 <br>
 
