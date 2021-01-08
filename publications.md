@@ -8,7 +8,10 @@ title: Publications
 
 
 ### Publications in Peer-reviewed Journals
-1. **Rudra, P.**, Cruz-Cortes, E., Zhang, X., Ghosh, D. (2019). "Multiple testing approaches for hypotheses in integrative genomics". *Wiley Interdisciplinary Reviews: Computational Statistics*, Accepted. Early view online.
+
+1. Radcliffe, R.A., Dowell, R.D., Odell A., Richmond, P., Bennet, B., Larson, C., Kechris, K., Saba, L.M., **Rudra, P.**, Shi, W. (2020). "Systems genetics analysis of the LXS recombinant inbred mouse strains: Genetic and molecular insights into acute ethanol tolerance". *PLOS ONE*, 15(10).
+
+1. **Rudra, P.**, Cruz-Cortes, E., Zhang, X., Ghosh, D. (2020). "Multiple testing approaches for hypotheses in integrative genomics". *Wiley Interdisciplinary Reviews: Computational Statistics*, 12(6).
 
 2. Kordas, G., **Rudra, P.**, Hendricks, A., Saba, L., Kechris, K. (2019).
 "Insight into genetic regulation of miRNA in mouse brain" *BMC genomics*, 20(1), 849.
