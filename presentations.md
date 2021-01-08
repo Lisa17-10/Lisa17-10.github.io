@@ -4,6 +4,12 @@ title: Professional Presentations
 ---
 
 ### Invited Presentations
+1. **"Testing abundance of cell populations in high-dimensional mass cytometry data"**
+Invited Talk, Online Statistics Seminar, University of Arkansas, AR (November 2020).
+
+1. **"Quantifying association in large biological data sets"**
+Invited Talk, Indian Statistical Institute, Kolkata, India (January 2020). 
+
 1. **"Control of False Discoveries in Grouped Hypothesis Testing for eQTL Data"**  
   Invited Talk, Department of Industrial Engineering and Management, Oklahoma State University, OK (October 2019).
 
