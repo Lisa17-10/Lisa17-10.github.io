@@ -9,6 +9,8 @@ title: Publications
 
 ### Publications in Peer-reviewed Journals
 
+1. Hiney, K., Sypniewski, L., **Rudra, P.**, Pezeshki, A., & McFarlane, D. (2021). "Clinical health markers in dogs fed raw meat-based or commercial extruded kibble diets". *Journal of Animal Science*, 99(6).
+
 1. Radcliffe, R.A., Dowell, R.D., Odell A., Richmond, P., Bennet, B., Larson, C., Kechris, K., Saba, L.M., **Rudra, P.**, Shi, W. (2020). "Systems genetics analysis of the LXS recombinant inbred mouse strains: Genetic and molecular insights into acute ethanol tolerance". *PLOS ONE*, 15(10).
 
 1. **Rudra, P.**, Cruz-Cortes, E., Zhang, X., Ghosh, D. (2020). "Multiple testing approaches for hypotheses in integrative genomics". *Wiley Interdisciplinary Reviews: Computational Statistics*, 12(6).
@@ -53,6 +55,7 @@ G.P., Hsieh E.W.Y. (2017). "Mass Cytometry Identifies a Distinct Monocyte Cytoki
 
 ### Technical Reports and Pre-prints
 1. **Rudra, P.**, Baxter, R., Hsieh, E. W., & Ghosh, D. (2021). Compositional Data Analysis using Kernels in Mass Cytometry Data. bioRxiv. 
+
 2. Bose, S., Pal, A., Mallick, J., Kumar, S. and **Rudra, P.**, "A Hybrid Approach for Improved Content-based Image Retrieval using Segmentation". (Technical report, BIRU/2012/3, Indian Statistical Institute)
 
 
