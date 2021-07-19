@@ -4,6 +4,12 @@ title: Professional Presentations
 ---
 
 ### Invited Presentations
+1. **"Compositional Data Analysis using Kernels in Mass Cytometry Data"** 
+Invited Talk at WNAR (Western North American Region of International Biometric Society) annual meeting, Virtual conference (June 2021).
+	
+1. **"Kernel Distance Covariance Approach for Testing Association in Longitudinal Studies"** 
+Invited Talk at the Annual Conference of International Indian Statistical Association, Virtual conference (May, 2021).
+
 1. **"Testing abundance of cell populations in high-dimensional mass cytometry data"**
 Invited Talk, Online Statistics Seminar, University of Arkansas, AR (November 2020).
 
