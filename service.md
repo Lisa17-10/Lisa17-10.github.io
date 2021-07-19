@@ -4,7 +4,7 @@ title: Professional Services
 ---
 
 
-* Referee: Biometrics, Bioinformatics, BMC Bioinformatics, The American Statistician, Metabilites, Cancers.
+* Referee: Biometrics, Bioinformatics, BMC Bioinformatics, The American Statistician, Metabilites, Cancers, Genome Biology.
 
 * WNAR member engagement committee, Western North American Region of International Biometric Society (October 2019-Present).
 
