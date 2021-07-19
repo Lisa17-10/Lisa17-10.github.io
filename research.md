@@ -21,7 +21,7 @@ In addition to my methodological research, I have also conducted extensive inter
 
 **Some ongoing research work**
 
-Currently I am involved in a project with mass cytometry (CyTOF) data where we aim to develop a new statistical methodology to find association between the compositional profile of immune cell types and other clinical/demographic variables. We propose a kernel-based method to test such association. Our proposed method tends to perform better than the existing univariate methods which test for each cell type individually.
+Currently I am involved in a project with mass cytometry (CyTOF) data where we aim to develop a new statistical methodology to find association between the compositional profile of immune cell types and other clinical/demographic variables. We propose a kernel-based method to test such association. Our proposed method tends to perform better than the existing univariate methods which test for each cell type individually. See <a href = "https://www.biorxiv.org/content/biorxiv/early/2021/05/10/2021.05.08.443265.full.pdf" target = "_blank">bioRxiv</a> for a preprint.
 
 In another project, I am working on finding patterns of auditory co-morbidities for patients with intellectual disabilities. It involves mining a large data set from two hospitals in the University of Colorado Anschutz Medical Center. 
 
