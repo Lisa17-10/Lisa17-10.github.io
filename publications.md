@@ -52,6 +52,7 @@ G.P., Hsieh E.W.Y. (2017). "Mass Cytometry Identifies a Distinct Monocyte Cytoki
 
 
 ### Technical Reports and Pre-prints
-1. Bose, S., Pal, A., Mallick, J., Kumar, S. and **Rudra, P.**, "A Hybrid Approach for Improved Content-based Image Retrieval using Segmentation". (Technical report, BIRU/2012/3, Indian Statistical Institute)
+1. **Rudra, P.**, Baxter, R., Hsieh, E. W., & Ghosh, D. (2021). Compositional Data Analysis using Kernels in Mass Cytometry Data. bioRxiv. 
+2. Bose, S., Pal, A., Mallick, J., Kumar, S. and **Rudra, P.**, "A Hybrid Approach for Improved Content-based Image Retrieval using Segmentation". (Technical report, BIRU/2012/3, Indian Statistical Institute)
 
 
