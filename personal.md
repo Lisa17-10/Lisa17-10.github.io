@@ -3,6 +3,8 @@ layout: page
 title: About Me
 ---
 
+![biophoto](img/headshot1.jpg)
+
 **Bio**
 
 I grew up in a small town called Santiniketan in India, and I was fortunate to be schooled in Patha Bhavana. The school was founded by Nobel laureate Rabindranath Tagore. It is one of the most uniquely beautiful experiences I could ever have. The playful nature of learning and the deep connection with nature formed my outlook towards the world in a distinct way. Post high school, I spent 5 years in my home country for higher education. I was lucky to be surrounded by some exceptional instructors during my college days, who had a huge contribution towards my interest in statistics. At the same time, I was involved in teaching my classmates and it gave me immense joy when I could explain difficult topics. It’s my knack of teaching that made me decide to pursue my career in academia.
