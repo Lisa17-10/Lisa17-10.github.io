@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-![biophoto](img/headshot1.jpg)
+![biophoto](img/1K1A0454_a.jpg)
 
 **Bio**
 
