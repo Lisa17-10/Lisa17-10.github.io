@@ -10,9 +10,7 @@ We are a couple originally from India, residing in Oklahoma, USA, who love to wa
 Along our journey we have made some wonderful friends and met some awesome people. We have learnt so much, which, of course, is just a miniscule amount of all that we can possibly learn! We would love to share our adventures through our lenses with you all. We hope you will join us in our adventure and appreciate nature as much as we do. A picture can tell you a thousand words and we hope our story reaches you with warmth and hope. 
 
 
-<img src="/assets/img/DP/PDR.jpg" alt="drawing" width="200"/> 
-
-<img src="/assets/img/DP/SDM_DP.jpg" alt="drawing" width="200"/>
+<img src="/assets/img/DP/PDR.jpg" alt="drawing" width="200"/> <img src="/assets/img/DP/SDM_DP.jpg" alt="drawing" width="200"/>
 
 
 
