@@ -56,7 +56,7 @@ We try to learn more about our natural world and conservation biology, which is 
 <div class="container">
 <div class="row">&nbsp;</div>
 <div class="row">
-	<div class="col-md-3">
+	<div class="col-md-2">
 		<p><a href="https://www.facebook.com/thewingmates" target="_blank"> <img src="/assets/img/Logos/fblogo.png" alt="fblogo" width="80"> <h5>Follow us on Facebook</h5>
 		</a></p>
 	</div>
@@ -64,7 +64,7 @@ We try to learn more about our natural world and conservation biology, which is 
 		<p><a 
 		</a></p>
 	</div>
-	<div class="col-md-3">
+	<div class="col-md-2">
 		<p><a href="https://www.facebook.com/thewingmates" target="_blank"> <img src="/assets/img/Logos/instalogo.png" alt="instalogo" width="80"> <h5>Follow us on Instagram</h5>
 		</a></p>
 	</div>
