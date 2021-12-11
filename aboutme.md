@@ -57,14 +57,14 @@ We try to learn more about our natural world and conservation biology, which is 
 <div class="row">&nbsp;</div>
 <div class="row">
 	<div class="col-md-2">
-		<p><a href="https://www.facebook.com/thewingmates" target="_blank"> <img src="/assets/img/Logos/fblogo.png" alt="fblogo" width="75"> <h6>Follow us on Facebook</h6>
+		<p><a href="https://www.facebook.com/thewingmates" target="_blank"> <img src="/assets/img/Logos/fblogo.png" alt="fblogo" width="80"> <h6>Follow us on Facebook</h6>
 		</a></p>
 	</div>
 	<div class="col-md-1">
 		<p></p>
 	</div>
 	<div class="col-md-2">
-		<p><a href="https://www.facebook.com/thewingmates" target="_blank"> <img src="/assets/img/Logos/instalogo.png" alt="instalogo" width="75"> <h6>Follow us on Instagram</h6>
+		<p><a href="https://www.facebook.com/thewingmates" target="_blank"> <img src="/assets/img/Logos/instalogo.png" alt="instalogo" width="80"> <h6>Follow us on Instagram</h6>
 		</a></p>
 	</div>
 </div>
