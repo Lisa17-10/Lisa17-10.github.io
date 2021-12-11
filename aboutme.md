@@ -52,6 +52,6 @@ We try to learn more about our natural world and conservation biology, which is 
 <br>
 <br>
 <p><a href="https://www.facebook.com/thewingmates">
-<img src="/assets/img/Logos/fblogo.png" alt="fblogo" width="100">
+<img src="/assets/img/Logos/fblogo.png" alt="fblogo" width="100"> Follow us on Facebook
 </a></p>		
 
