@@ -13,6 +13,8 @@ We are a couple originally from India, residing in Oklahoma, USA, who love to wa
 
 Along our journey we have made some wonderful friends and met some awesome people. We have learnt so much, which, of course, is just a miniscule amount of all that we can possibly learn! We would love to share our adventures through our lenses with you all. We hope you will join us in our adventure and appreciate nature as much as we do. A picture can tell you a thousand words and we hope our story reaches you with warmth and hope. 
 
+We try to learn more about our natural world and conservation biology, which is increasingly becoming more important than ever. We would have loved to call ourselves conservation photographers, but we have to be honest that we spend time out there mostly out of selfish reasons, due to the pure joy that we feel, and not with some goal to create awareness among my viewers. Saying that, we sincerely hope that all of you who love our images will try to learn more about nature and do a little bit towards keeping our natural world from getting destroyed by humankind. 
+
 <div class="container">
 <div class="row">&nbsp;</div>
 <div class="row">
@@ -22,7 +24,7 @@ Along our journey we have made some wonderful friends and met some awesome peopl
 	<div class="col-md-8">
 	<h3>Pratyaydipta Rudra</h3>
 		<p> 
-			I am a statistician by profession, but wildlife photography is my passion. I had always loved spending time in nature, but it really became a passion about ten years ago when I got a small digital camera as a gift and started observing the birds and wildlife more closely. Since then nature has always been healing for me, even at the toughest of the times. I would like to think that I have come a long way in terms of my photographic skills, but I never feel like I can do justice to the abundant beauty around us. Besides actually pressing the shutter, I tend to spend a lot of time trying to understand light and compositions… striving to create something different, and hopefully artistic. Every day I try to learn more about our natural world and conservation issues, which is increasingly becoming more important than ever. I would have loved to call myself a conservation photographer, but I have to be honest that I spend time out there mostly out of selfish reasons, due to the pure joy that I feel, and not with some goal to create awareness among my viewers. Saying that, I sincerely hope that all of you who love my images will try to learn more about nature and do a little bit towards keeping our natural world from getting destroyed by humankind. 
+			I am a statistician by profession, but wildlife photography is my passion. I had always loved spending time in nature, but it really became a passion about ten years ago when I got a small digital camera as a gift and started observing the birds and wildlife more closely. Since then nature has always been healing for me, even at the toughest of the times. I would like to think that I have come a long way in terms of my photographic skills, but I never feel like I can do justice to the abundant beauty around us. Besides actually pressing the shutter, I tend to spend a lot of time trying to understand light and compositions… striving to create something different, and hopefully artistic. 
 		</p>
 	</div>
 </div>
