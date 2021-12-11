@@ -10,6 +10,28 @@ We are a couple originally from India, residing in Oklahoma, USA, who love to wa
 Along our journey we have made some wonderful friends and met some awesome people. We have learnt so much, which, of course, is just a miniscule amount of all that we can possibly learn! We would love to share our adventures through our lenses with you all. We hope you will join us in our adventure and appreciate nature as much as we do. A picture can tell you a thousand words and we hope our story reaches you with warmth and hope. 
 
 
+<div class="container">
+<div class="row">&nbsp;</div>
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="assets/img/DP/PDR.jpg" class="img-responsive" alt="Pratyaydipta Rudra"/></a>
+	</div>
+	<div class="col-md-6">
+	<h3>Contact:</h3>
+		<p> <a href = "http://statistics.okstate.edu" target = "_blank"> Department of Statistics</a> <br>
+		<a href="https://go.okstate.edu/" target = "_blank"> Oklahoma State University </a> <br>
+		301D MSCS <br>
+		Stillwater, OK 74078 <br>
+		<strong>Email:</strong> prudra [at] okstate.edu <br>
+		<strong>Phone:</strong> +1 405-744-9660 <br>
+		<a href = "files/CV_current.pdf" target = "_blank"> Curriculum Vitae </a>
+		</p>
+	</div>
+</div>
+	
+<hr>
+
+
 <div class="container2">
 <div class="row">&nbsp;</div>
 <div class="row">
