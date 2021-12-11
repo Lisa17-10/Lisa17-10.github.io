@@ -13,5 +13,5 @@ Along our journey we have made some wonderful friends and met some awesome peopl
 ### Pratyaydipta Rudra
 
 ### Sreemala Das Majumder
-Sreemala is currently pursuing a Doctorate degree in Civil Engineering at the College of Engineering, Architecture, and Technology at Oklahoma State University. Her research is focused on treatment wetlands and greenhouse gas emissions. When she is not working in the lab, she enjoys being outside, photographing and learning about birds. She also enjoys cooking a lot. 
+I am currently pursuing a Doctorate degree in Civil Engineering at the College of Engineering, Architecture, and Technology at Oklahoma State University. My research is focused on treatment wetlands and greenhouse gas emissions. When I am not working in the lab, I enjoys being outside, photographing and learning about birds. 
 
