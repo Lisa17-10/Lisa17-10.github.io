@@ -24,7 +24,7 @@ Along our journey we have made some wonderful friends and met some awesome peopl
 	</div>
 </div>
   
-
+<br>
 
 ### Sreemala Das Majumder 
 I am currently pursuing a Doctorate degree in Civil Engineering at the College of Engineering, Architecture, and Technology at Oklahoma State University. My research is focused on treatment wetlands and greenhouse gas emissions. When I am not working in the lab, I enjoy being outside, photographing and learning about birds. Unlike Pratyay, I hate editing my photos, which has led to thousands of unedited photos. I hope this blog will help me get motivated to share more of the photos that I have captured!
