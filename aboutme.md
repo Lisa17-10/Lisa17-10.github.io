@@ -12,10 +12,10 @@ Along our journey we have made some wonderful friends and met some awesome peopl
 <div class="container">
 <div class="row">&nbsp;</div>
 <div class="row">
-	<div class="col-md-5">
+	<div class="col-md-3">
 		<img src="/assets/img/DP/PDR.jpg" class="img-responsive" alt="Pratyaydipta Rudra"/>
 	</div>
-	<div class="col-md-10">
+	<div class="col-md-6">
 	<h3>Pratyaydipta Rudra</h3>
 		<p> 
 			I am a statistician by profession, but wildlife photography is my passion. I had always loved spending time in nature, but it really became a passion about ten years ago when I got a small digital camera as a gift and started observing the birds and wildlife more closely. Since then nature has always been healing for me, even at the toughest of the times. I would like to think that I have come a long way in terms of my photographic skills, but I never feel like I can do justice to the abundant beauty around us. Besides actually pressing the shutter, I tend to spend a lot of time trying to understand light and compositions… striving to create something different, and hopefully artistic.
