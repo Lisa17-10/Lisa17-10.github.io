@@ -13,6 +13,9 @@ Along our journey we have made some wonderful friends and met some awesome peopl
 
 We try to learn more about our natural world and conservation biology, which is increasingly becoming more important than ever. We would have loved to call ourselves conservation photographers, but we have to be honest that we spend time out there mostly out of selfish reasons, due to the pure joy that we feel, and not with some goal to create awareness among my viewers. Saying that, we sincerely hope that all of you who love our images will try to learn more about nature and do a little bit towards keeping our natural world from getting destroyed by humankind. 
 
+<br>
+<br>
+
 <div class="container">
 <div class="row">&nbsp;</div>
 <div class="row">
