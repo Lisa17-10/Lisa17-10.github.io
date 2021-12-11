@@ -12,7 +12,7 @@ Along our journey we have made some wonderful friends and met some awesome peopl
 
 <img src="/assets/img/DP/PDR.jpg" alt="drawing" width="200"/> 
 
-<img src="/assets/img/DP/SDM.jpg" alt="drawing" width="200"/>
+<img src="/assets/img/DP/SDM_DP.jpg" alt="drawing" width="200"/>
 
 
 
