@@ -12,10 +12,10 @@ Along our journey we have made some wonderful friends and met some awesome peopl
 <div class="container">
 <div class="row">&nbsp;</div>
 <div class="row">
-	<div class="col-md-6">
+	<div class="col-md-5">
 		<img src="/assets/img/DP/PDR.jpg" class="img-responsive" alt="Pratyaydipta Rudra"/>
 	</div>
-	<div class="col-md-12">
+	<div class="col-md-10">
 	<h3>Contact:</h3>
 		<p> <a href = "http://statistics.okstate.edu" target = "_blank"> Department of Statistics</a> <br>
 		<a href="https://go.okstate.edu/" target = "_blank"> Oklahoma State University </a> <br>
