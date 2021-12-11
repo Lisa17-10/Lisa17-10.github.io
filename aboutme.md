@@ -17,13 +17,8 @@ Along our journey we have made some wonderful friends and met some awesome peopl
 	</div>
 	<div class="col-md-10">
 	<h3>Contact:</h3>
-		<p> <a href = "http://statistics.okstate.edu" target = "_blank"> Department of Statistics</a> <br>
-		<a href="https://go.okstate.edu/" target = "_blank"> Oklahoma State University </a> <br>
-		301D MSCS <br>
-		Stillwater, OK 74078 <br>
-		<strong>Email:</strong> prudra [at] okstate.edu <br>
-		<strong>Phone:</strong> +1 405-744-9660 <br>
-		<a href = "files/CV_current.pdf" target = "_blank"> Curriculum Vitae </a>
+		<p> 
+			I am a statistician by profession, but wildlife photography is my passion. I had always loved spending time in nature, but it really became a passion about ten years ago when I got a small digital camera as a gift and started observing the birds and wildlife more closely. Since then nature has always been healing for me, even at the toughest of the times. I would like to think that I have come a long way in terms of my photographic skills, but I never feel like I can do justice to the abundant beauty around us. Besides actually pressing the shutter, I tend to spend a lot of time trying to understand light and compositions… striving to create something different, and hopefully artistic.
 		</p>
 	</div>
 </div>
