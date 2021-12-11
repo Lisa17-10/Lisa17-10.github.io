@@ -61,8 +61,7 @@ We try to learn more about our natural world and conservation biology, which is 
 		</a></p>
 	</div>
 	<div class="col-md-1">
-		<p><a 
-		</a></p>
+		<p></p>
 	</div>
 	<div class="col-md-2">
 		<p><a href="https://www.facebook.com/thewingmates" target="_blank"> <img src="/assets/img/Logos/instalogo.png" alt="instalogo" width="80"> <h5>Follow us on Instagram</h5>
