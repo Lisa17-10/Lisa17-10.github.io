@@ -10,24 +10,17 @@ We are a couple originally from India, residing in Oklahoma, USA, who love to wa
 Along our journey we have made some wonderful friends and met some awesome people. We have learnt so much, which, of course, is just a miniscule amount of all that we can possibly learn! We would love to share our adventures through our lenses with you all. We hope you will join us in our adventure and appreciate nature as much as we do. A picture can tell you a thousand words and we hope our story reaches you with warmth and hope. 
 
 
-<div class="container">
-<div class="row">&nbsp;</div>
-<div class="row">
-	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="assets/img/DP/PDR.jpg" class="img-responsive" alt="Pratyaydipta Rudra"/></a>
-	</div>
-	<div class="col-md-6">
-	<h3>Contact:</h3>
-		<p> <a href = "http://statistics.okstate.edu" target = "_blank"> Department of Statistics</a> <br>
-		<a href="https://go.okstate.edu/" target = "_blank"> Oklahoma State University </a> <br>
-		301D MSCS <br>
-		Stillwater, OK 74078 <br>
-		<strong>Email:</strong> prudra [at] okstate.edu <br>
-		<strong>Phone:</strong> +1 405-744-9660 <br>
-		<a href = "files/CV_current.pdf" target = "_blank"> Curriculum Vitae </a>
-		</p>
-	</div>
-</div>
+ <div class="row">
+  <div class="column">
+    <img src="assets/img/DP/PDR.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="assets/img/DP/PDR.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="assets/img/DP/PDR.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div> 
 	
 <hr>
 
@@ -46,7 +39,7 @@ Along our journey we have made some wonderful friends and met some awesome peopl
 	</div>
 </div>
   
-<br>
+<hr>
 
 ### Sreemala Das Majumder 
 I am currently pursuing a Doctorate degree in Civil Engineering at the College of Engineering, Architecture, and Technology at Oklahoma State University. My research is focused on treatment wetlands and greenhouse gas emissions. When I am not working in the lab, I enjoy being outside, photographing and learning about birds. Unlike Pratyay, I hate editing my photos, which has led to thousands of unedited photos. I hope this blog will help me get motivated to share more of the photos that I have captured!
