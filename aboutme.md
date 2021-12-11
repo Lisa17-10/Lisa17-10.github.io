@@ -7,7 +7,7 @@ title: About us
 
 ## The mate story
 
-<img src="/assets/img/DP/PDR.jpg" alt="owl shirts" width=90/>
+<img src="/assets/img/DP/PDR.jpg" alt="owl shirts" width=100%>
 
 We are a couple originally from India, residing in Oklahoma, USA, who love to watch and take pictures of bird and wildlife. Before moving to Oklahoma, we spent 3 years in Denver, where we started birding and photography more seriously. As time went by, we became more fascinated with nature and its beauty. Even a boring day can be an enticing one if you are outdoors. Our interests have taken over every aspect of nature, form birds to wild animals, from flowers to insects, from lakes to oceans and God knows what else. We find so much joy and happiness being outside and everyday feels like an outdoor class! 
 
