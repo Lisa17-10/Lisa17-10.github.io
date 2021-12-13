@@ -89,10 +89,9 @@ The ruby throated hummingbird which weighs about a penny must fill up its fat re
 ![](/assets/img/Blogs/1_Fall2021_part1/8.jpg)
 *<span style="font-size: 0.75em;">This little bird was clinging from the petal of the flower while seeking nectar inside. Even though the hummingbirds are super light, it’s still a bit of too much for the petals to hold its body weight. So, it had to keep flapping its wings to stay afloat</span>*
 
+![](/assets/img/Blogs/1_Fall2021_part1/9.a.jpg)
 
 ![](/assets/img/Blogs/1_Fall2021_part1/9.jpg)
-
-![](/assets/img/Blogs/1_Fall2021_part1/9.b.jpg)
 *<span style="font-size: 0.75em;">The ruby throats were always hooked to the flowers... but they need some rest too after spending so much energy fighting with other hummers!</span>*
 
 
