@@ -5,7 +5,7 @@ share-img: /assets/img/Blogs/1_Fall2021_part1/collage.png
 thumbnail-img: /assets/img/Blogs/1_Fall2021_part1/butterflythumb.jpg
 permalink: /2021/12/12/Fall_stories_from_Stillwater/
 subtitle: Part 1
-excerpt: "Looking back at a fall filled with the sound of tiny wings."
+excerpt: "Looking back at a fall filled with the sound of tiny wings. Looking back at a fall filled with the sound of tiny wings. Looking back at a fall filled with the sound of tiny wings. Looking back at a fall filled with the sound of tiny wings. Looking back at a fall filled with the sound of tiny wings. Looking back at a fall filled with the sound of tiny wings. Looking back at a fall filled with the sound of tiny wings. Looking back at a fall filled with the sound of tiny wings."
 cover-img: /assets/img/Blogs/1_Fall2021_part1/cover.jpg
 category: "Butterflies"
 gh-repo:  Lisa17-10/Lisa17-10.github.io
