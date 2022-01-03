@@ -62,54 +62,54 @@ Gorgeous Gulf Fritillaries were our favorites. The upper wings are bright orange
 
 A standing ovation form us if you already knew the difference between the Painted Lady and the American Lady. Painted Ladies were more common during the fall migration, and we had so much fun figuring out that we have both the species present on the same day.  
 
-![](/assets/img/Blogs/1_Fall2021_part1/4.jpg)
+<img src="/assets/img/Blogs/1_Fall2021_part1/4.jpg" width="100%"/>
 
-![](/assets/img/Blogs/1_Fall2021_part1/4.a.jpg)
+<img src="/assets/img/Blogs/1_Fall2021_part1/4.a.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Top: Painted Lady, bottom: American Lady</span>*
 
 Do you know that the monarch migration takes place over many generations? These beautiful critters have such a short life span. The journey that the Monarchs starts at the origin is completed by its younger generation over time. We cannot wait for them to come back again next year. 
 
-![](/assets/img/Blogs/1_Fall2021_part1/5.jpg)
+<img src="/assets/img/Blogs/1_Fall2021_part1/5.jpg" width="100%"/>
 
-![](/assets/img/Blogs/1_Fall2021_part1/6.jpg)
+<img src="/assets/img/Blogs/1_Fall2021_part1/6.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">The monarchs make any background beautiful</span>*
 
 
 Birding was relatively slow this fall. But we at least got our regular Mississippi Kites sitting at their favorite perch, the top of a bare branch on our backyard cottonwood tree. A good part of these birds’ diet consists of insects and they thoroughly enjoyed the large cicadas before they move south.  
 
-![](/assets/img/Blogs/1_Fall2021_part1/7.jpg)
+<img src="/assets/img/Blogs/1_Fall2021_part1/7.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Cicadas are delicacy for the Mississippi kites</span>*
 
 The number of hummingbirds at our yard was surprisingly low, but our casual visits at the OSU Botanical Garden resulted in some good looks at them. The adult males had moved on with their migration by then. We mostly saw the females and the immatures.
 
-![](/assets/img/Blogs/1_Fall2021_part1/8.a.jpg)
+<img src="/assets/img/Blogs/1_Fall2021_part1/8.a.jpg" width="100%"/>
 
-![](/assets/img/Blogs/1_Fall2021_part1/8.b.jpg)
+<img src="/assets/img/Blogs/1_Fall2021_part1/8.b.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Ruby-throated Hummingbird</span>*
 
 The ruby throated hummingbird which weighs about a penny must fill up its fat reserve completely before preparing for the long migration south. We so much enjoy their little wings, tiny feet and buzzing sound when they are nearby. Many a times before spotting it in the flower we often get to hear them first. They look even better during the golden hours.
 
-![](/assets/img/Blogs/1_Fall2021_part1/8.jpg)
+<img src="/assets/img/Blogs/1_Fall2021_part1/8.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">This little bird was clinging from the petal of the flower while seeking nectar inside. Even though the hummingbirds are super light, it’s still a bit of too much for the petals to hold its body weight. So, it had to keep flapping its wings to stay afloat</span>*
 
-![](/assets/img/Blogs/1_Fall2021_part1/9.a.jpg)
+<img src="/assets/img/Blogs/1_Fall2021_part1/9.a.jpg" width="100%"/>
 
-![](/assets/img/Blogs/1_Fall2021_part1/9.jpg)
+<img src="/assets/img/Blogs/1_Fall2021_part1/9.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">The ruby throats were always hooked to the flowers... but they need some rest too after spending so much energy fighting with other hummers!</span>*
 
 
 A rare bird showed up in Stillwater on Sreemala’s birthday! Of course, we went out with the goal of finding it! Luckily, we were successful and were able to get some nice shots. It was a Pomarine Jaeger which is a quite rare in this part of the country. 
 
-![](/assets/img/Blogs/1_Fall2021_part1/10.jpg)
+<img src="/assets/img/Blogs/1_Fall2021_part1/10.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">The jaeger was chilling on the bank right before leaving Stillwater for good</span>*
 
-![](/assets/img/Blogs/1_Fall2021_part1/11.jpg)
+<img src="/assets/img/Blogs/1_Fall2021_part1/11.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Bidding us good bye and giving us a final good look</span>*
 
 
 A fun story: We also grew some vegetables, including squash plants with delicious greens and flowers!  We were so happy to look at this colorful Cucumber Beetle and admiring its beauty until we realized it’s a pest and harmful for our favorite squash plants. We were almost ready to get rid of it after the photoshoot! 
 
-![](/assets/img/Blogs/1_Fall2021_part1/12.jpg)
+<img src="/assets/img/Blogs/1_Fall2021_part1/12.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">A dainty Cucumber Beetle on one of our favorite wildflowr</span>*
 
 So long from Stillwater... We will be back with part 2 soon!
