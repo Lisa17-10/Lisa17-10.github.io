@@ -32,13 +32,15 @@ As the summer was changing to fall, we started seeing lots of skippers and other
 
 
 
-![](/assets/img/Blogs/1_Fall2021_part1/1.jpg)
+<img src="/assets/img/Blogs/1_Fall2021_part1/1.jpg" width="100%"/>
 
-![](/assets/img/Blogs/1_Fall2021_part1/1.a.jpg)
+<img src="/assets/img/Blogs/1_Fall2021_part1/1.a.jpg" width="100%"/>
 
-![](/assets/img/Blogs/1_Fall2021_part1/1b.jpg)
+<img src="/assets/img/Blogs/1_Fall2021_part1/1b.jpg" width="100%"/>
 
-![](/assets/img/Blogs/1_Fall2021_part1/1.c.jpg)
+<img src="/assets/img/Blogs/1_Fall2021_part1/1.c.jpg" width="100%"/>
+
+
 *<span style="font-size: 0.75em;">From the top: Monarch, Question Mark, Common Buckeye, Gulf Frittilary</span>*
 
 Unlike birds, butterflies are most active during the warmest hours of the day which typically happens around 12-3 p.m. here. We have spent numerous hours getting caught by the butterflies and almost missed lunches, meetings and what not. At the end of the day, it was all worth it to witness them doing their thing, completely ignoring our presence. 
