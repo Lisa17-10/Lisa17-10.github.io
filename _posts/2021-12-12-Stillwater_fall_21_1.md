@@ -53,9 +53,9 @@ Unlike birds, butterflies are most active during the warmest hours of the day wh
 
 Gorgeous Gulf Fritillaries were our favorites. The upper wings are bright orange, but the best part is their underwings with the most beautiful patterns! We were glad to see many of them at our backyard. Sreemala quickly got hooked into some “butterflies in flight” photography, and on one occasion, even went out alone to photograph some Painted Ladies. (Not good Sreemala!)
 
-![](/assets/img/Blogs/1_Fall2021_part1/3.jpg)
+<img src="/assets/img/Blogs/1_Fall2021_part1/3.jpg" width="100%"/>
 
-![](/assets/img/Blogs/1_Fall2021_part1/butterflythumb.jpg)
+<img src="/assets/img/Blogs/1_Fall2021_part1/butterflythumb.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Gulf Frittilary upper and under wings</span>*
 
 
