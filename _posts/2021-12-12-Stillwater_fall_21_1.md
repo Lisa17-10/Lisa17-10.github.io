@@ -5,7 +5,11 @@ share-img: /assets/img/Blogs/1_Fall2021_part1/collage.png
 thumbnail-img: /assets/img/Blogs/1_Fall2021_part1/butterflythumb.jpg
 permalink: /2021/12/12/Fall_stories_from_Stillwater/
 subtitle: Part 1
-excerpt: "Looking back at a fall filled with the sound of tiny wings. Looking back at a fall filled with the sound of tiny wings. Looking back at a fall filled with the sound of tiny wings. Looking back at a fall filled with the sound of tiny wings. Looking back at a fall filled with the sound of tiny wings. Looking back at a fall filled with the sound of tiny wings. Looking back at a fall filled with the sound of tiny wings. Looking back at a fall filled with the sound of tiny wings."
+excerpt: "Looking back at a fall filled with the sound of tiny wings... 
+
+Welcome to Sreemala and Pratyay’s BnB, birds and butterflies, that is! 
+
+Fall in Stillwater is now over… well, almost. The days are still pretty warm, sometimes unusually so! As we wait for finally welcoming the winter, we are still basking in the warmth of the colorful photos we took this fall!"
 cover-img: /assets/img/Blogs/1_Fall2021_part1/cover.jpg
 category: "Butterflies"
 gh-repo:  Lisa17-10/Lisa17-10.github.io
