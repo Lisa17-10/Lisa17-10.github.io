@@ -13,7 +13,7 @@ gh-repo:  Lisa17-10/Lisa17-10.github.io
 
 
 
-<img src="/assets/img/DP/Authors_PDR_SDM.jpg" alt="Pratyay and Sreemala" width="100%"/>
+<img src="/assets/img/DP/Authors_PDR_SDM.jpg" alt="Pratyay and Sreemala" width="300px"/>
 
 
 
@@ -24,7 +24,8 @@ Fall in Stillwater is now over… well, almost. The days are still pretty warm, 
 This fall has been extra special at our backyard. This year our unexperienced hands tried our luck in gardening. Right from choosing the correct plants according to our zone, starting our seeds and planting them in the bed have been nothing but a learning curve for us. We were extremely amazed to see the fruits of our labor. As the temperature got warmer, the plants took off rapidly and in no time our beds were booming with flowers. We mostly chose plants that were native and needed less water and care. The plants did not disappoint us on our first attempt at gardening and we thoroughly enjoyed every step of the process.
 
 
-![](/assets/img/Blogs/1_Fall2021_part1/1.aa.jpg)
+
+<img src="/assets/img/Blogs/1_Fall2021_part1/1.aa.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Meadows were full of butterflies</span>*
 
 As the summer was changing to fall, we started seeing lots of skippers and other butterflies, many of them starting to migrate south for the winter. It was mostly the common species, Monarchs, American and Painted Ladies, Common Buckeyes, Variegated and Gulf Fritillaries, Question Marks, various Sulphurs and Skippers to name a few. But we didn’t mind that since all of them were so pretty! Here are some of them…
