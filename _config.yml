@@ -39,18 +39,18 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   #email: "someone@example.com"
-  #facebook: deanattali
+  facebook: thewingmates
   #github: daattali
   #twitter: daattali
   #patreon: DeanAttali
-  #youtube: c/daattali
+  youtube: Wingmates
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: thewingmates
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -64,7 +64,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Blog site of the Wingmates
 
 # --- General options --- #
 
@@ -99,7 +99,7 @@ post_search: true
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#608cbe"   #"#4562a1"
-navbar-text-col: "#e6e6e6"
+navbar-text-col: "#FFFFFF" #"#e6e6e6"
 navbar-border-col: "#999999"
 page-col: "#FFFFFF"
 link-col: "#005fb3"
