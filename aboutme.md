@@ -58,17 +58,30 @@ We try to learn more about our natural world and conservation biology, which is 
 <div class="container">
 <div class="row">&nbsp;</div>
 <div class="row">
-	<div class="col-md-3">
+	
+	<div class="col-md-2">
 		<p><a href="https://www.facebook.com/thewingmates" target="_blank"> <img src="/assets/img/Logos/fblogo.png" alt="fblogo" width="80"> <h6>Follow us on Facebook</h6>
 		</a></p>
 	</div>
+	
 	<div class="col-md-1">
 		<p></p>
 	</div>
-	<div class="col-md-3">
-		<p><a href="https://www.facebook.com/thewingmates" target="_blank"> <img src="/assets/img/Logos/instalogo.png" alt="instalogo" width="80"> <h6>Follow us on Instagram</h6>
+	
+	<div class="col-md-2">
+		<p><a href="https://www.instagram.com/thewingmates/" target="_blank"> <img src="/assets/img/Logos/instalogo.png" alt="instalogo" width="80"> <h6>Follow us on Instagram</h6>
 		</a></p>
 	</div>
+	
+	<div class="col-md-1">
+		<p></p>
+	</div>
+	
+	<div class="col-md-2">
+		<p><a href="https://www.youtube.com/channel/UCAtihGaE8r96mwkOiHPFo_w" target="_blank"> <img src="/assets/img/Logos/ytlogo.png" alt="instalogo" width="80"> <h6>Follow us on Youtube</h6>
+		</a></p>
+	</div>
+	
 </div>
 		
 
