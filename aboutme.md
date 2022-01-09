@@ -87,7 +87,7 @@ We try to learn more about our natural world and conservation biology, which is 
 	</div>
 	
 	<div class="col-md-2">
-		<p><a href="https://www.flickr.com/photos/wingmates" target="_blank"> <img src="/assets/img/Logos/Flickrlogo.png" alt="Flickrlogo" width="80"> <h6>Follow us on Flickr</h6>
+		<p><a href="https://www.flickr.com/photos/wingmates" target="_blank"> <img src="/assets/img/Logos/Flickrlogo.jpg" alt="Flickrlogo" width="80"> <h6>Follow us on Flickr</h6>
 		</a></p>
 	</div>
 	
