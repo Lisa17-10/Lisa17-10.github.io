@@ -40,22 +40,22 @@ As the summer was changing to fall, we started seeing lots of skippers and other
 
 <img src="/assets/img/Blogs/1_Fall2021_part1/1b.jpg" width="100%"/>
 
-<c> <img src="/assets/img/Blogs/1_Fall2021_part1/1.c.jpg" width="750px"/> </c>
+<img src="/assets/img/Blogs/1_Fall2021_part1/1.c.jpg" width="750px" class="center"/>
 
 
 *<span style="font-size: 0.75em;">From the top: Monarch, Question Mark, Common Buckeye, Gulf Frittilary</span>*
 
 Unlike birds, butterflies are most active during the warmest hours of the day which typically happens around 12-3 p.m. here. We have spent numerous hours getting caught by the butterflies and almost missed lunches, meetings and what not. At the end of the day, it was all worth it to witness them doing their thing, completely ignoring our presence. 
 
-<img src="/assets/img/Blogs/1_Fall2021_part1/2.jpg" width="100%"/>
+<img src="/assets/img/Blogs/1_Fall2021_part1/2.jpg" width="750px" class="center"/>
 
-<img src="/assets/img/Blogs/1_Fall2021_part1/3.1.jpg" width="100%"/>
+<img src="/assets/img/Blogs/1_Fall2021_part1/3.1.jpg" width="750px" class="center"/>
 *<span style="font-size: 0.75em;">Playful Gulf Frittilary</span>*
 
 
 Gorgeous Gulf Fritillaries were our favorites. The upper wings are bright orange, but the best part is their underwings with the most beautiful patterns! We were glad to see many of them at our backyard. Sreemala quickly got hooked into some “butterflies in flight” photography, and on one occasion, even went out alone to photograph some Painted Ladies. (Not good Sreemala!)
 
-<img src="/assets/img/Blogs/1_Fall2021_part1/3.jpg" width="100%"/>
+<img src="/assets/img/Blogs/1_Fall2021_part1/3.jpg" width="750px" class="center"/>
 
 <img src="/assets/img/Blogs/1_Fall2021_part1/butterflythumb.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Gulf Frittilary upper and under wings</span>*
@@ -73,7 +73,7 @@ Do you know that the monarch migration takes place over many generations? These 
 
 <img src="/assets/img/Blogs/1_Fall2021_part1/5.jpg" width="100%"/>
 
-<img src="/assets/img/Blogs/1_Fall2021_part1/6.jpg" width="100%"/>
+<img src="/assets/img/Blogs/1_Fall2021_part1/6.jpg" width="750px" class="center"/>
 *<span style="font-size: 0.75em;">The monarchs make any background beautiful</span>*
 
 
@@ -96,7 +96,7 @@ The ruby throated hummingbird which weighs about a penny must fill up its fat re
 
 <img src="/assets/img/Blogs/1_Fall2021_part1/9.a.jpg" width="100%"/>
 
-<img src="/assets/img/Blogs/1_Fall2021_part1/9.jpg" width="100%"/>
+<img src="/assets/img/Blogs/1_Fall2021_part1/9.jpg" width="750px" class="center"/>
 *<span style="font-size: 0.75em;">The ruby throats were always hooked to the flowers... but they need some rest too after spending so much energy fighting with other hummers!</span>*
 
 
