@@ -34,13 +34,13 @@ As the summer was changing to fall, we started seeing lots of skippers and other
 
 
 
-<img src="/assets/img/Blogs/1_Fall2021_part1/1.jpg" width="800px" class="center"/>
+<img src="/assets/img/Blogs/1_Fall2021_part1/1.jpg" width="750px" class="center"/>
 
 <img src="/assets/img/Blogs/1_Fall2021_part1/1.a.jpg" width="100%"/>
 
 <img src="/assets/img/Blogs/1_Fall2021_part1/1b.jpg" width="100%"/>
 
-<img src="/assets/img/Blogs/1_Fall2021_part1/1.c.jpg" width="100%"/>
+<c> <img src="/assets/img/Blogs/1_Fall2021_part1/1.c.jpg" width="750px"/> </c>
 
 
 *<span style="font-size: 0.75em;">From the top: Monarch, Question Mark, Common Buckeye, Gulf Frittilary</span>*
