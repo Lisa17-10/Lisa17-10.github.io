@@ -34,7 +34,7 @@ As the summer was changing to fall, we started seeing lots of skippers and other
 
 
 
-<c> <img src="/assets/img/Blogs/1_Fall2021_part1/1.jpg" width="800px"/> </c>
+<c> <img src="/assets/img/Blogs/1_Fall2021_part1/1.jpg" width="800px" class="center"/> </c>
 
 <img src="/assets/img/Blogs/1_Fall2021_part1/1.a.jpg" width="100%"/>
 
