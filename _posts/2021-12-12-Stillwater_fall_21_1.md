@@ -25,7 +25,7 @@ Fall in Stillwater is now over… well, almost. The days are still pretty warm, 
 
 This fall has been extra special at our backyard. This year our unexperienced hands tried our luck in gardening. Right from choosing the correct plants according to our zone, starting our seeds and planting them in the bed have been nothing but a learning curve for us. We were extremely amazed to see the fruits of our labor. As the temperature got warmer, the plants took off rapidly and in no time our beds were booming with flowers. We mostly chose plants that were native and needed less water and care. The plants did not disappoint us on our first attempt at gardening and we thoroughly enjoyed every step of the process.
 
-
+<img src="/assets/img/Blogs/1_Fall2021_part1/01.jpg" width="100%"/>
 
 <img src="/assets/img/Blogs/1_Fall2021_part1/1.aa.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Meadows were full of butterflies</span>*
