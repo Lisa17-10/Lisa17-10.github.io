@@ -15,11 +15,10 @@ author: All images are copyrighted &bull; Wingmates
 
 navbar-links:
   About Us: "aboutme"
-  Prints: "prints"
   Index: 
     - Tag Index: "/tags"
     - Full Infex: "fullindex"
-  #Author's home: "https://deanattali.com"
+  Prints: "prints"
 
 # --- Logo --- #
 
