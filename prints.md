@@ -21,11 +21,11 @@ Feel free to contact us at one of the Wingmates social media handle for any quer
 	
 	
 	<div class="col-md-1">
-		<p><img src="/assets/img/pages/photobooks.jpg" class="img-responsive"/></p>
+		<p></p>
 	</div>
 	
 	<div class="col-md-10">
-		<p</p>
+		<p><img src="/assets/img/pages/photobooks.jpg" class="img-responsive"/></p>
 	</div>
 	
 		
