@@ -109,10 +109,25 @@ A rare bird showed up in Stillwater on Sreemala’s birthday! Of course, we went
 *<span style="font-size: 0.75em;">Bidding us good bye and giving us a final good look</span>*
 
 
-A fun story: We also grew some vegetables, including squash plants with delicious greens and flowers!  We were so happy to look at this colorful Cucumber Beetle and admiring its beauty until we realized it’s a pest and harmful for our favorite squash plants. We were almost ready to get rid of it after the photoshoot! 
+We also grew some vegetables, including squash plants with delicious greens and flowers!  We were so happy to look at this colorful Cucumber Beetle and admiring its beauty until we realized it’s a pest and harmful for our favorite squash plants. We were almost ready to get rid of it after the photoshoot! 
 
 <img src="/assets/img/Blogs/1_Fall2021_part1/12.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">A dainty Cucumber Beetle on one of our favorite wildflowr</span>*
+*<span style="font-size: 0.75em;">A dainty Cucumber Beetle on one of our favorite wildflowers</span>*
+
+Grasshoppers can also be annoying as they can eat up a lot of leaves, and we love our squash leaves! If you have never tried cooking squash (pumpkin) leaves, you most definitely should. It's delicious! This one was in a group of grasshoppers who were feasting on our squash leaves, but the situation wasn't too bad, so we let them stay. After all, we are taught to share food with others, right? 
+
+<img src="/assets/img/Blogs/1_Fall2021_part1/13.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">Pasture Grasshoppers mostly eat grass, but this one seemed to like some squash leaves too.</span>*
+
+We saw many other grasshoppers during the summer and early fall, several of them quite handsome. Here are two such big guys...
+
+<img src="/assets/img/Blogs/1_Fall2021_part1/14.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">An Obscure Bird Grasshopper cleaning one of its antennae using its foot. Those antennae are important tools for them!</span>*
+
+
+<img src="/assets/img/Blogs/1_Fall2021_part1/15.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">A Carolina Grasshopper staying hidden in plain sight on the red soil of Oklahoma.</span>*
+
 
 So long from Stillwater... We will be back with part 2 soon!
 
