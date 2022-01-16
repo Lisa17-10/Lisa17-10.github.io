@@ -121,7 +121,7 @@ Grasshoppers can also be annoying as they can eat up a lot of leaves, and we lov
 
 We saw many other grasshoppers during the summer and early fall, several of them quite handsome. Here are two such big guys...
 
-<img src="/assets/img/Blogs/1_Fall2021_part1/14.jpg" width="100%"/>
+<img src="/assets/img/Blogs/1_Fall2021_part1/14.jpg" width="750px" class="center"/>
 *<span style="font-size: 0.75em;">An Obscure Bird Grasshopper cleaning one of its antennae using its foot. Those antennae are important tools for them!</span>*
 
 
