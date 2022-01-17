@@ -76,7 +76,7 @@ If you want to take some nice butterfly photos, here are some tips for you. Unli
 <img src="/assets/img/Blogs/2_Fall2021_part2/10a.jpg" width="750px" class="center"/>
 *<span style="font-size: 0.75em;">Gulf Frittilary looking for the the next stop</span>*
 
-Pipevine Swallowtails and Question Marks visited in smaller numbers. See below a relatively boring photo of the underwing of the Question Mark to see the reason behind its nomenclature. 
+Pipevine Swallowtails and Question Marks visited in smaller numbers. See below a relatively boring photo of the underwing of the Question Mark to see the reason behind its nomenclature. Do you see the white "?" ?
 
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/11.jpg" width="750px" class="center"/>
@@ -85,7 +85,7 @@ Pipevine Swallowtails and Question Marks visited in smaller numbers. See below a
 <img src="/assets/img/Blogs/2_Fall2021_part2/11a.jpg" width="750px" class="center"/>
 *<span style="font-size: 0.75em;">Pipevine Swallowtail</span>*
 
-The different types of Hairsreak and Silvery Checkerspost visits were short lived. The Silvery Checkerspot is often confused with somewhat similar looking the Pearl Crescent (photo from 2020). Do you see the differences?
+The different types of Hairsreak and Silvery Checkerspost visits were short lived. The Silvery Checkerspot is often confused with somewhat similar looking the Pearl Crescent (see photo below from 2020). Do you see the differences?
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/12.jpg" width="750px" class="center"/>
 *<span style="font-size: 0.75em;">Silvery Checkerspot</span>*
@@ -98,7 +98,7 @@ The different types of Hairsreak and Silvery Checkerspost visits were short live
 
 ## The birds…
 
-If you follow us on Facebook, you will know that we have a Red-shouldered Hawk in our neighborhood who visits us very frequently on our backyard. It is quite used the presence of humans and doesn’t mind posing for photos. We named it Frankie and were missing its sight for several days. Good to see that Frankie decided to stop by on Sreemala’s birthday and say hello. This was taken when it was flying past us. 
+If you follow us on Facebook, you will know that we have a Red-shouldered Hawk in our neighborhood who visits us very frequently on our backyard. It is quite used the presence of humans and doesn’t mind posing for photos. We named it Frankie and were missing its sight for several days. Good to see that Frankie decided to stop by on Sreemala’s birthday. This was taken when it was flying past us. 
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/13.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Frankie flying by us.</span>*
@@ -132,7 +132,7 @@ The killdeers are present year-round in this park. They breed here and when spri
 
 ## And others…
 
-Bird and butterflies are not the only critters that we share our space with. Here comes our most noisy resident, a Meadow Katydid who never failed to let us know about its presence whenever we went to the yard. 
+Bird and butterflies are not the only critters that we share our space with. Here comes our most noisy resident this fall, a Meadow Katydid who never failed to let us know about its presence whenever we went to the yard. 
 
 <iframe width="100%" height = "540" src="https://www.youtube.com/embed/WgC63F-Svww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -142,7 +142,7 @@ Bird and butterflies are not the only critters that we share our space with. Her
 
 It peacefully shared the space with the butterflies, grasshoppers and other insects. As the temperature dropped late in the November, one fine morning, it was gone. As loud as it was through the last few months, we kind of missed its chirp when we went outside.  
 
-We spent a good amount of time observing and photographing some Sphinx moths this year. We saw three species of them – White-lined Sphinx, Rustic Sphinx and Titan Sphinx. They are often called hummingbird moths due to how they hover over the flowers while feeding. Some of these moths are quite attractive! Although it’s quite easy to catch them in flight due to the hovering behavior, it can actually be tricky to freeze them in the best wing position to show the intricate detail of their upper wings. 
+We spent a good amount of time observing and photographing some Sphinx moths this year. We saw three species of them – White-lined Sphinx, Rustic Sphinx and Titan Sphinx. They are often called hummingbird moths because of how they hover over the flowers while feeding. Some of these moths are quite attractive! Although it’s quite easy to catch them in flight due to the hovering behavior, it can actually be tricky to freeze them in the best wing position to show the intricate detail of their upper wings. 
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/17.jpg" width="750px" class="center"/>
 *<span style="font-size: 0.75em;">White-lined Sphinx busy drinking nectar</span>*
@@ -158,7 +158,7 @@ We spent a good amount of time observing and photographing some Sphinx moths thi
 *<span style="font-size: 0.75em;">Rustic Sphinx</span>*
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/21.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">White-lined Sphinx displaying the intricate wing details!</span>*
+*<span style="font-size: 0.75em;">White-lined Sphinx showing the intricate wing details!</span>*
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/22.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Only sighting of Titan Sphinx!</span>*
@@ -167,9 +167,9 @@ We spent a good amount of time observing and photographing some Sphinx moths thi
 Not everything in the garden is nice and beautiful for the pollinators. There are predators lurking in every corner. The spiders would love to tangle them in their web any time! The most common ones were the orb weavers and European Garden Spiders weaving huge web that can almost cover the sky!   
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/26.jpg" width="750px" class="center"/>
-*<span style="font-size: 0.75em;">European Garden Spider preparing food</span>*
+*<span style="font-size: 0.75em;">European Garden Spider waiting for food</span>*
 
-Not all spiders weave web. Some are hunters! One of them is Misumena or Flower Crab Spider. They typically wait on the flowers patiently until a pollinator visits the flower at which point it catches it and eats it. It has the ability to change its color to match the color of the flower where it is waiting for its prey. The change of color from white to yellow can take up to 10-25 days where as the reverse is much faster and can be accomplished in about 6 days. In the picture below, you can see the crab spider waiting patiently on a sunflower to catch the bee. These spiders can often catch butterflies, even ones that are bigger than their own size.  
+Not all spiders weave web. Some are hunters! One of them is Misumena or Flower Crab Spider. They typically wait on the flowers patiently until a pollinator visits the flower at which point it catches it and eats it. It has the ability to change its color to match the color of the flower where it is waiting for its prey. The change of color from white to yellow can take up to 10-25 days whereas the reverse is much faster and can be accomplished in about 6 days. In the picture below, you can see the crab spider waiting patiently on a sunflower to catch the bee. These spiders can often catch butterflies, even ones that are bigger than their own size.  
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/27.jpg" width="750px" class="center"/>
 *<span style="font-size: 0.75em;">Escaping the kiss of death.</span>*
@@ -177,8 +177,8 @@ Not all spiders weave web. Some are hunters! One of them is Misumena or Flower C
 <img src="/assets/img/Blogs/2_Fall2021_part2/27a.jpg" width="750px" class="center"/>
 *<span style="font-size: 0.75em;">Crab Spider after catching a Skipper</span>*
 
-The Green Lynx Spider is also one of the hunters. They are widespread in the United states, Mexico. All spiders are good, but these one is definitely our friend, because the eat a variety of insects that includes moths and larvae. I am keeping my figures crossed that they will take care of some of the pests next spring. (28,29,29a)
-While the Lynx and Crab Spiders were getting the reward of their patience by being able to catch some pollinators after waiting all day on the flowers, this Bold Jumping Spider seemed to be a bit too ambitious! I smiled when I saw it stalking this huge Monarch butterfly. These spiders often stalk their prey and then jump onto them, but this one soon realized that the Monarch is a little too big for it. Full credit for the “boldness” though!
+The Green Lynx Spider is also one of the hunters. They are widespread in the United states and Mexico. All spiders are good, but this one is definitely our friend, because they eat a variety of insects that includes moths and larvae. We are keeping our fingers crossed that they will take care of some of the pests next spring. 
+
 
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/28.jpg" width="100%"/>
@@ -186,6 +186,8 @@ While the Lynx and Crab Spiders were getting the reward of their patience by bei
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/29.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Green Lynx Spider</span>*
+
+While the Lynx and Crab Spiders were getting the reward of their patience by being able to catch some pollinators after waiting all day on the flowers, this Bold Jumping Spider seemed to be a bit too ambitious! I smiled when I saw it stalking this huge Monarch butterfly. These spiders often stalk their prey and then jump onto them, but this one soon realized that the Monarch is a little too big for it. Full credit for the “boldness” though!
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/29a.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Too ambitious to catch a Monarh butterfly</span>*
