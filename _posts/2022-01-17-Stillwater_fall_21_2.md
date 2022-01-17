@@ -1,7 +1,7 @@
 ---
 title: Fall stories from Stillwater
 tags: [Stillwater, Butterflies, Migration, 2021]
-share-img: /assets/img/Blogs/1_Fall2021_part1/collage.jpg
+share-img: /assets/img/Blogs/1_Fall2021_part2/collage.jpg
 thumbnail-img: /assets/img/Blogs/2_Fall2021_part2/varithumb.jpg
 permalink: /2022/01/17/Fall_stories_from_Stillwater/
 subtitle: Part 2
@@ -109,7 +109,6 @@ On Pratyay’s birthday, we were greeted by a handsome Yellow-billed Cuckoo on t
 
 Bird and butterflies are not the only critters that we share our space with. Here comes our most noisy resident, a Meadow Katydid who never failed to let us know about its presence whenever we went to the yard. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WgC63F-Svww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/12.jpg" width="750px" class="center"/>
 *<span style="font-size: 0.75em;">Cohabitants</span>*
