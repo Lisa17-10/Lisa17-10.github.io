@@ -222,12 +222,12 @@ As the warmth of the fall months faded away, winter flocks of Europian Starlings
 <img src="/assets/img/Blogs/2_Fall2021_part2/33.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">trying to fit in.</span>*
 
-Late December, a couple of friends visited us and brought for us a beautiful board game called Mariposas. They were aware of out newfound love of butterflies; hence this game based on the migration of the Monarchs. It is designed by the great Elizabeth Hargrave, and a pretty good game with a lot of replayability. What a perfect game for us to end the season! (34)
+Late December, a couple of friends visited us and brought for us a beautiful board game called Mariposas. They were aware of out newfound love of butterflies; hence this game based on the migration of the Monarchs. It is designed by the great Elizabeth Hargrave, and a pretty good game with a lot of replayability. What a perfect game for us to end the season! 
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/34.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">getting hooked to Mariposas</span>*
 
-End of a butterfly season is always a bit sad. This was the last monarch we saw, that took off from one of our favorite flowers and went south. Hopefully we will see some of its offspring next year!
+End of a butterfly season is always a bit sad. This was the last monarch we saw, taking off from one of our favorite flowers and heading south. Hopefully we will see some of its offspring next year!
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/35.jpg" width="750px" class="center"/>
 *<span style="font-size: 0.75em;">Final good bye from the Monarch</span>*
