@@ -98,7 +98,7 @@ The different types of Hairsreak and Silvery Checkerspost visits were short live
 
 ## The birds…
 
-If you follow us on Facebook, you will know that we have a Red-shouldered Hawk in our neighborhood who visits us very frequently on our backyard. It is quite used the presence of humans and doesn’t mind posing for photos. We named it Frankie and were missing its sight for several days. Good to see that Frankie decided to stop by on Sreemala’s birthday. This was taken when it was flying past us. 
+If you follow us on Facebook, you will know that we have a Red-shouldered Hawk in our neighborhood who visits us very frequently on our backyard. It is quite used to the presence of humans and doesn’t mind posing for photos. We named it Frankie and were missing its sight for several days. Good to see that Frankie decided to stop by on Sreemala’s birthday. This was taken when it was flying past us. 
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/13.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Frankie flying by us.</span>*
