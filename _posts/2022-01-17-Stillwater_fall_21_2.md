@@ -223,7 +223,7 @@ As the warmth of the fall months faded away, winter flocks of Europian Starlings
 <img src="/assets/img/Blogs/2_Fall2021_part2/33.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Trying to fit in.</span>*
 
-In late December, a couple of friends visited us and brought for us a beautiful board game called Mariposas. They were aware of out newfound love of butterflies; hence this game based on the migration of the Monarchs. It is beautifully designed by the great Elizabeth Hargrave, and a pretty good game with a lot of replayability. What a perfect game for us to end the season! 
+In late December, a couple of friends visited us and brought us a beautiful board game called Mariposas. They were aware of our newfound love of butterflies; hence this game based on the migration of the Monarchs. It is beautifully designed by the great Elizabeth Hargrave, and a pretty good game with a lot of replayability. What a perfect game for us to end the season! 
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/34.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Getting hooked to Mariposas</span>*
