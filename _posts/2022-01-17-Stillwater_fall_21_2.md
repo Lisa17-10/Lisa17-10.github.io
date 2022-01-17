@@ -109,6 +109,8 @@ On Pratyay’s birthday, we were greeted by a handsome Yellow-billed Cuckoo on t
 
 Bird and butterflies are not the only critters that we share our space with. Here comes our most noisy resident, a Meadow Katydid who never failed to let us know about its presence whenever we went to the yard. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WgC63F-Svww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <img src="/assets/img/Blogs/2_Fall2021_part2/12.jpg" width="750px" class="center"/>
 *<span style="font-size: 0.75em;">Cohabitants</span>*
 
@@ -124,13 +126,13 @@ We visited our favorite park on a fall day to find some critters with the fall c
 *<span style="font-size: 0.75em;">The does are always alert.</span>*
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/25.jpg" width="100%"/>
-*<span style="font-size: 0.75em;"> Last rays of sun on fall color.</span>*
+*<span style="font-size: 0.75em;">Last rays of sun on fall color.</span>*
 
 
 The killdeers are present year-round in this park. They breed here and when spring comes you can see a pair of little feet following the mama. The chicks are usually all grown up and on their own by the end of summer. 
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/15.jpg" width="100%"/>
-*<span style="font-size: 0.75em;"> Killdeer</span>*
+*<span style="font-size: 0.75em;">Killdeer</span>*
 
 <br>
 <br>
@@ -147,7 +149,7 @@ We spent a good amount of time observing and photographing some Sphinx moths thi
 
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/19.jpg" width="100%"/>
-*<span style="font-size: 0.75em;"> Rustic Sphinx hovering above the buffet table!</span>*
+*<span style="font-size: 0.75em;">Rustic Sphinx hovering above the buffet table!</span>*
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/20.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Rustic Sphinx</span>*
