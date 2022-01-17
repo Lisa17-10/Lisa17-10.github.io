@@ -113,7 +113,7 @@ On Pratyay’s birthday, we were greeted by a handsome Yellow-billed Cuckoo on t
 We visited our favorite park on a fall day to find some critters with the fall color as the background. The colors were not that pronounced yet. But we saw many white-tailed deer at sunset and got some decent images. 
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/23.jpg" width="100%"/>
-*<span style="font-size: 0.75em;"> A lony White-tailed Deer.</span>*
+*<span style="font-size: 0.75em;"> A lonely White-tailed Deer.</span>*
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/24.jpg" width="750px" class="center"/>
 *<span style="font-size: 0.75em;">The does are always alert.</span>*
@@ -195,7 +195,7 @@ While the Lynx and Crab Spiders were getting the reward of their patience by bei
 The skippers, as feisty they might be, are some of the smallest butterflies around, and often become easy prey to the predators. This Robber Fly, another ruthless predator, was all over it!
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/30.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">The sneaky Green Lynx Spider</span>*
+*<span style="font-size: 0.75em;">Robber Fly with a skipper kill</span>*
 
 
 Late November, and the grasshoppers were still showing themselves, though in smaller numbers. They are beautiful creatures as long as they do not destroy our prized vegetable garden! As far as we know, this one, a Pasture Grasshopper, mostly feed on grass. 
