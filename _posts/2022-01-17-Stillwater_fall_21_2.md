@@ -192,13 +192,10 @@ While the Lynx and Crab Spiders were getting the reward of their patience by bei
 <img src="/assets/img/Blogs/2_Fall2021_part2/29a.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Too ambitious to catch a Monarh butterfly</span>*
 
-While the Lynx and Crab Spiders were getting the reward of their patience by being able to catch some pollinators after waiting all day on the flowers, this Bold Jumping Spider seemed to be a bit too ambitious! I smiled when I saw it stalking this huge Monarch butterfly. These spiders often stalk their prey and then jump onto them, but this one soon realized that the Monarch is a little too big for it. Full credit for the “boldness” though!
 The skippers, as feisty they might be, are some of the smallest butterflies around, and often become easy prey to the predators. This Robber Fly, another ruthless predator, was all over it!
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/30.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">The sneaky Green Lynx Spider</span>*
-
-The skippers, as feisty they might be, are some of the smallest butterflies around, and often become easy prey to the predators. This Robber Fly, another ruthless predator, was all over it! 
 
 
 Late November, and the grasshoppers were still showing themselves, though smaller numbers. They are beautiful creatures as long as they do not destroy our prized vegetable garden! As far as we know, this one, a Pasture Grasshopper, mostly feed on grass. 
