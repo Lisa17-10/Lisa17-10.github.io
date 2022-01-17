@@ -25,15 +25,15 @@ gh-repo:  Lisa17-10/Lisa17-10.github.io
 Fall 2021 was strange! The fall colors came late, and the winter even later. The weather was comfortable and warm even in December. The flowers were still going strong in late November and so were the butterflies, grasshoppers and other critters. The migratory butterflies were feeding vigorously on the flowers to fuel themselves for the rest of their journey. 
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/1.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">Beautiful Painted Lady on a flower</span>*
+*<span style="font-size: 0.75em;">A beautiful Painted Lady</span>*
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/1a.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Orange Sulphur gliding around</span>*
 
-Usually the larger butterflies are very calm taking their turns to move around the flowers and drinking nectar. The little skippers, not so much! They would come to a flower and kick anyone else away from the flower and take its seat. As you might guess, these little feisty butterflies fly quickly, almost skipping from flower to flower instead of floating around. Even large butterflies like Monarchs are often mobbed by these little bullets! The skippers would happily chase away one another all the time, sometimes even flying straight towards us.  
+Usually the larger butterflies are very calm taking their turns to move around the flowers and drinking nectar. The little skippers, not so much! They would come to a flower and kick anyone else away from the flower and take its seat. As you might guess, these little feisty butterflies fly quickly, almost skipping from flower to flower instead of floating around. Even large butterflies like Monarchs are often mobbed by these little bullets! The skippers would happily chase away one another all the time, sometimes even flying straight towards us. Well, sometimes they get a dose of their own medicine! 
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/2.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">Gulf Fritiallry fighting a Skipper to take the 'throne'</span>*
+*<span style="font-size: 0.75em;">Gulf Fritiallry kicking a Skipper off to take the 'throne'</span>*
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/3.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Skippers fighting for the flower</span>*
@@ -58,7 +58,7 @@ Here’s a quiz for the readers! Let’s see if you can figure out which one of 
 Fritillaries are beautiful butterflies! The Gulf and the Variegated Fritillaries were both abundant and they provided us enough opportunities to capture some flying shots. 
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/8.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">The skipper got there first! But the Variegated Fritillary won't give up.</span>*
+*<span style="font-size: 0.75em;">The skipper got there first! But the Variegated Fritillary won't give up (the background of this image has been replaced)</span>*
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/9.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Gulf frittilary choosing the freshest flower from the bunch</span>*
@@ -70,27 +70,28 @@ Fritillaries are beautiful butterflies! The Gulf and the Variegated Fritillaries
 If you want to take some nice butterfly photos, here are some tips for you. Unlike bird photography, mid-day is not such a bad time to take photos of butterflies. They are the most active when its warmer. So, if you want a sitting butterfly and would like more time to compose a shot, try early mornings, but if you are like us who enjoy action shots, definitely try warmer parts of the day. Besides them being more active, midday also gives an opportunity to get some interesting lighting as the sun shines from above. Since butterflies don’t have too many body parts that can cast shadows on itself, the sun being higher is not usually a problem. On the other hand, it can create some interesting backlight type effect as the light comes through the translucent wings without directly aiming at the sun. Give it a try the next time you are out taking butterfly photos. Here are two examples of such lighting. The underwings of the Gulf Fritillaries look especially gorgeous when light comes through.  
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/10b.jpg" width="750px" class="center"/>
-*<span style="font-size: 0.75em;">Gulf Frittilary looking for the the next stop</span>*
+*<span style="font-size: 0.75em;">Painted Lady with backlit wings</span>*
+
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/10a.jpg" width="750px" class="center"/>
-*<span style="font-size: 0.75em;">Painted Lady with backlit wings</span>*
+*<span style="font-size: 0.75em;">Gulf Frittilary looking for the the next stop</span>*
 
 Pipevine Swallowtails and Question Marks visited in smaller numbers. See below a relatively boring photo of the underwing of the Question Mark to see the reason behind its nomenclature. 
 
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/11.jpg" width="750px" class="center"/>
-*<span style="font-size: 0.75em;">The Question Mark butterfly.</span>*
+*<span style="font-size: 0.75em;">The Question Mark butterfly</span>*
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/11a.jpg" width="750px" class="center"/>
-*<span style="font-size: 0.75em;">The Pipevine Swallowtail.</span>*
+*<span style="font-size: 0.75em;">Pipevine Swallowtail</span>*
 
 The different types of Hairsreak and Silvery Checkerspost visits were short lived. The Silvery Checkerspot is often confused with somewhat similar looking the Pearl Crescent (photo from 2020). Do you see the differences?
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/12.jpg" width="750px" class="center"/>
-*<span style="font-size: 0.75em;">The Silvery Checkerspot.</span>*
+*<span style="font-size: 0.75em;">Silvery Checkerspot</span>*
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/12a.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">The Pearl Crescent.</span>*
+*<span style="font-size: 0.75em;">Pearl Crescent</span>*
 
 <br>
 <br>
