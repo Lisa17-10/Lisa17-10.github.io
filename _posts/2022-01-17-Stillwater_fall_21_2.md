@@ -2,11 +2,11 @@
 title: Fall stories from Stillwater
 tags: [Stillwater, Butterflies, Migration, 2021]
 share-img: /assets/img/Blogs/1_Fall2021_part1/collage.jpg
-thumbnail-img: /assets/img/Blogs/2_Fall2021_part1/varithumb.jpg
+thumbnail-img: /assets/img/Blogs/2_Fall2021_part2/varithumb.jpg
 permalink: /2022/01/17/Fall_stories_from_Stillwater/
 subtitle: Part 2
 excerpt: "Fall 2021 was strange! The fall colors came late, and the winter even later. The weather was comfortable and warm even in December. The flowers were still going strong in late November and so were the butterflies, grasshoppers and other critters. The migratory butterflies were feeding vigorously on the flowers to fuel themselves for the rest of their journey."
-cover-img: /assets/img/Blogs/2_Fall2021_part1/cover.jpg
+cover-img: /assets/img/Blogs/2_Fall2021_part2/cover.jpg
 category: "Butterflies"
 gh-repo:  Lisa17-10/Lisa17-10.github.io
 ---
@@ -19,14 +19,14 @@ gh-repo:  Lisa17-10/Lisa17-10.github.io
 
 
 
-##The butterflies…
+## The butterflies…
 
 Fall 2021 was strange! The fall colors came late, and the winter even later. The weather was comfortable and warm even in December. The flowers were still going strong in late November and so were the butterflies, grasshoppers and other critters. The migratory butterflies were feeding vigorously on the flowers to fuel themselves for the rest of their journey. 
 
-<img src="/assets/img/Blogs/2_Fall2021_part1/1.jpg" width="750px" class="center"/>
+<img src="/assets/img/Blogs/2_Fall2021_part2/1.jpg" width="750px" class="center"/>
 *<span style="font-size: 0.75em;">Beautiful Gulf Frittilary on a flower</span>*
 
-<img src="/assets/img/Blogs/2_Fall2021_part1/1a.jpg" width="100%"/>
+<img src="/assets/img/Blogs/2_Fall2021_part2/1a.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Sulfur gliding around</span>*
 
 Usually the larger butterflies are very calm taking their turns to move around the flowers and drinking nectar. The little skippers, not so much! They would come to a flower and kick anyone else away from the flower and take its seat. As you might guess, these little feisty butterflies fly quickly, almost skipping from flower to flower instead of floating around. Even large butterflies like Monarchs are often mobbed by these little bullets! The skippers would happily chase away one another all the time, sometimes even flying straight towards us.  
@@ -93,7 +93,8 @@ The different types of Hairsreak and Silvery Checkerspost visits were short live
 
 
 
-##The birds…
+## The birds…
+
 If you follow us on Facebook, you will know that we have a Red-shouldered Hawk in our neighborhood who visits us very frequently on our backyard. It is quite used the presence of humans and doesn’t mind posing for photos. We named it Frankie and were missing its sight for several days. Good to see that Frankie decided to stop by on Sreemala’s birthday and say hello. This was taken when it was flying past us. (13)
 
 <img src="/assets/img/Blogs/2_Fall2021_part1/13.jpg" width="100%"/>
@@ -130,7 +131,8 @@ The killdeers are present year-round in this park. They breed here and when spri
 <img src="/assets/img/Blogs/2_Fall2021_part1/15.jpg" width="100%"/>
 *<span style="font-size: 0.75em;"> the independent Killdeer chick.</span>*
 
-##And others…
+## And others…
+
 We spent a good amount of time observing and photographing some Sphinx moths this year. We saw three species of them – White-lined Sphinx, Rustic Sphinx and Titan Sphinx. They are often called hummingbird moths due to how they hover over the flowers while feeding. Some of these moths are quite attractive! Although it’s quite easy to catch them in flight due to the hovering behavior, it can actually be tricky to freeze them in the best wing position to show the intricate detail of their upper wings. 
 (17,18,19,20,21,22)
 <img src="/assets/img/Blogs/2_Fall2021_part1/17.jpg" width="750px" class="center"/>
