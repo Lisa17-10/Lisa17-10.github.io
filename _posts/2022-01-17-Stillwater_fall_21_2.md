@@ -107,14 +107,7 @@ On Pratyay’s birthday, we were greeted by a handsome Yellow-billed Cuckoo on t
 <img src="/assets/img/Blogs/2_Fall2021_part2/14.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Our madatory fall migratory species</span>*
 
-Bird and butterflies are not the only critters that we share our space with. Here comes our most noisy resident, a Meadow Katydid who never failed to let us know about its presence whenever we went to the yard. 
 
-
-<img src="/assets/img/Blogs/2_Fall2021_part2/12.jpg" width="750px" class="center"/>
-*<span style="font-size: 0.75em;">Cohabitants</span>*
-
-
-It peacefully shared the space with the butterflies, grasshoppers and other insects. As the temperature dropped late in the November, one fine morning, it was gone. As loud as it was through the last few months, we kind of missed its chirp when we went outside.  
 
 We visited our favorite park on a fall day to find some critters with the fall color as the background. The colors were not that pronounced yet. But we saw many white-tailed deer at sunset and got some decent images. 
 
@@ -137,6 +130,15 @@ The killdeers are present year-round in this park. They breed here and when spri
 <br>
 
 ## And others…
+
+Bird and butterflies are not the only critters that we share our space with. Here comes our most noisy resident, a Meadow Katydid who never failed to let us know about its presence whenever we went to the yard. 
+
+
+<img src="/assets/img/Blogs/2_Fall2021_part2/14a.jpg" width="750px" class="center"/>
+*<span style="font-size: 0.75em;">Cohabitants</span>*
+
+
+It peacefully shared the space with the butterflies, grasshoppers and other insects. As the temperature dropped late in the November, one fine morning, it was gone. As loud as it was through the last few months, we kind of missed its chirp when we went outside.  
 
 We spent a good amount of time observing and photographing some Sphinx moths this year. We saw three species of them – White-lined Sphinx, Rustic Sphinx and Titan Sphinx. They are often called hummingbird moths due to how they hover over the flowers while feeding. Some of these moths are quite attractive! Although it’s quite easy to catch them in flight due to the hovering behavior, it can actually be tricky to freeze them in the best wing position to show the intricate detail of their upper wings. 
 
