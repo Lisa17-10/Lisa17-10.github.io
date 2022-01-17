@@ -1,7 +1,7 @@
 ---
 title: Fall stories from Stillwater
 tags: [Stillwater, Butterflies, Migration, 2021]
-share-img: /assets/img/Blogs/1_Fall2021_part2/collage.jpg
+share-img: /assets/img/Blogs/2_Fall2021_part2/collage.jpg
 thumbnail-img: /assets/img/Blogs/2_Fall2021_part2/varithumb.jpg
 permalink: /2022/01/17/Fall_stories_from_Stillwater/
 subtitle: Part 2
