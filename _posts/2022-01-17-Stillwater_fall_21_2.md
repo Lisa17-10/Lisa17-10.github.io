@@ -18,15 +18,9 @@ gh-repo:  Lisa17-10/Lisa17-10.github.io
 
 
 
-<img src="/assets/img/Blogs/2_Fall2021_part1/01.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">Meadows were full of butterflies</span>*
-
-<img src="/assets/img/Blogs/2_Fall2021_part1/1.c.jpg" width="750px" class="center"/>
-*<span style="font-size: 0.75em;">From the top: Monarch, Question Mark, Common Buckeye, Gulf Frittilary</span>*
-
-
 
 ##The butterflies…
+
 Fall 2021 was strange! The fall colors came late, and the winter even later. The weather was comfortable and warm even in December. The flowers were still going strong in late November and so were the butterflies, grasshoppers and other critters. The migratory butterflies were feeding vigorously on the flowers to fuel themselves for the rest of their journey. 
 
 <img src="/assets/img/Blogs/2_Fall2021_part1/1.jpg" width="750px" class="center"/>
