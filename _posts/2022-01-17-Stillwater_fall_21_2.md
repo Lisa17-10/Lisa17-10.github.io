@@ -198,18 +198,18 @@ The skippers, as feisty they might be, are some of the smallest butterflies arou
 *<span style="font-size: 0.75em;">The sneaky Green Lynx Spider</span>*
 
 
-Late November, and the grasshoppers were still showing themselves, though smaller numbers. They are beautiful creatures as long as they do not destroy our prized vegetable garden! As far as we know, this one, a Pasture Grasshopper, mostly feed on grass. 
+Late November, and the grasshoppers were still showing themselves, though in smaller numbers. They are beautiful creatures as long as they do not destroy our prized vegetable garden! As far as we know, this one, a Pasture Grasshopper, mostly feed on grass. 
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/31.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">The grasshoppers are beautiful as long as they do not jump at you!</span>*
+*<span style="font-size: 0.75em;">These grasshoppers are quite handsome</span>*
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/32.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">The tiny nymph</span>*
+*<span style="font-size: 0.75em;">A tiny nymph</span>*
 
-The little one in the above photo a grasshopper nymph (perhaps of the same grasshopper) that we saw very late in the season. It was no bigger than a centimeter. Nymphs don’t have the wings, but this one was happily hopping around in December. I guess it would try to find a warm spot and overwinter as it gets colder. (32) 
+The little one in the photo above is a grasshopper nymph (perhaps of the same grasshopper) that we saw very late in the season. It was no bigger than a centimeter. Nymphs don’t have the wings, but this one was happily hopping around in December. I guess it would try to find a warm spot to overwinter as it gets colder.  
 
 
-When out birding and butterflying became slow, stumbling upon these strange looking fruits kept us entertained. It looks like what Professor Shonku would find during his morning walk, bring it home and strange things would follow! You may be tempted to taste it, but is not easily edible and most foraging animals will not even touch them. It is commonly named Osage orange. There are lots of legends and fun stories around this fruit. <a href="https://www.treehugger.com/osage-orange-tree-brain-fruit-4863165" target="_blank">This</a> write up is a favorite! 
+When birding and butterflying became slow, stumbling upon these strange looking fruits kept us entertained. It looks like what Professor Shonku would find during his morning walk, bring it home and strange things would follow! You may be tempted to taste it, but it is not easily edible and most foraging animals will not even touch them. It is commonly called Osage orange. There are lots of legends and fun stories around this fruit. <a href="https://www.treehugger.com/osage-orange-tree-brain-fruit-4863165" target="_blank">This</a> write up is a favorite! 
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/32a.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Lovely pattern of the Osage orange</span>*
@@ -223,7 +223,7 @@ As the warmth of the fall months faded away, winter flocks of Europian Starlings
 <img src="/assets/img/Blogs/2_Fall2021_part2/33.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Trying to fit in.</span>*
 
-Late December, a couple of friends visited us and brought for us a beautiful board game called Mariposas. They were aware of out newfound love of butterflies; hence this game based on the migration of the Monarchs. It is designed by the great Elizabeth Hargrave, and a pretty good game with a lot of replayability. What a perfect game for us to end the season! 
+In late December, a couple of friends visited us and brought for us a beautiful board game called Mariposas. They were aware of out newfound love of butterflies; hence this game based on the migration of the Monarchs. It is beautifully designed by the great Elizabeth Hargrave, and a pretty good game with a lot of replayability. What a perfect game for us to end the season! 
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/34.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Getting hooked to Mariposas</span>*
