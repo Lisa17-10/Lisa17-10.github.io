@@ -136,7 +136,7 @@ Bird and butterflies are not the only critters that we share our space with. Her
 
 <iframe width="100%" height = "540" src="https://www.youtube.com/embed/WgC63F-Svww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<img src="/assets/img/Blogs/2_Fall2021_part2/14a.jpg" width="750px" class="center"/>
+<img src="/assets/img/Blogs/2_Fall2021_part2/14a.jpg" width="650px" class="center"/>
 *<span style="font-size: 0.75em;">Cohabitants</span>*
 
 
