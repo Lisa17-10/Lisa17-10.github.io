@@ -33,7 +33,7 @@ Fall 2021 was strange! The fall colors came late, and the winter even later. The
 Usually the larger butterflies are very calm taking their turns to move around the flowers and drinking nectar. The little skippers, not so much! They would come to a flower and kick anyone else away from the flower and take its seat. As you might guess, these little feisty butterflies fly quickly, almost skipping from flower to flower instead of floating around. Even large butterflies like Monarchs are often mobbed by these little bullets! The skippers would happily chase away one another all the time, sometimes even flying straight towards us.  
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/2.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">Skipper taking the throne</span>*
+*<span style="font-size: 0.75em;">Gulf Fritiallry fighting a Skipper to take the 'throne'</span>*
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/3.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Skippers fighting for the flower</span>*
