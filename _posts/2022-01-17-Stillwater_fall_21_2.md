@@ -205,7 +205,7 @@ Late November, and the grasshoppers were still showing themselves, though smalle
 The little one in the above photo a grasshopper nymph (perhaps of the same grasshopper) that we saw very late in the season. It was no bigger than a centimeter. Nymphs don’t have the wings, but this one was happily hopping around in December. I guess it would try to find a warm spot and overwinter as it gets colder. (32) 
 
 
-When out birding and butterflying became slow, stumbling upon these strange looking fruits kept us entertained. It looks like what Professor Shonku would find during his morning walk, bring it home and strange things would follow! You may be tempted to taste it, but is not easily edible and most foraging animals will not even touch them. It is commonly named Osage orange. There are lots of legends and fun stories around this fruit. This write up is a favorite! 
+When out birding and butterflying became slow, stumbling upon these strange looking fruits kept us entertained. It looks like what Professor Shonku would find during his morning walk, bring it home and strange things would follow! You may be tempted to taste it, but is not easily edible and most foraging animals will not even touch them. It is commonly named Osage orange. There are lots of legends and fun stories around this fruit. <a href="https://www.treehugger.com/osage-orange-tree-brain-fruit-4863165" target="_blank">This</a> write up is a favorite! 
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/32a.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Non edible osage orange.</span>*
