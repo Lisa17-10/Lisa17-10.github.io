@@ -211,7 +211,7 @@ The little one in the above photo a grasshopper nymph (perhaps of the same grass
 When out birding and butterflying became slow, stumbling upon these strange looking fruits kept us entertained. It looks like what Professor Shonku would find during his morning walk, bring it home and strange things would follow! You may be tempted to taste it, but is not easily edible and most foraging animals will not even touch them. It is commonly named Osage orange. There are lots of legends and fun stories around this fruit. <a href="https://www.treehugger.com/osage-orange-tree-brain-fruit-4863165" target="_blank">This</a> write up is a favorite! 
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/32a.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">Non edible osage orange.</span>*
+*<span style="font-size: 0.75em;">Lovely pattern of the Osage orange</span>*
 
 
 <br>
@@ -225,7 +225,7 @@ As the warmth of the fall months faded away, winter flocks of Europian Starlings
 Late December, a couple of friends visited us and brought for us a beautiful board game called Mariposas. They were aware of out newfound love of butterflies; hence this game based on the migration of the Monarchs. It is designed by the great Elizabeth Hargrave, and a pretty good game with a lot of replayability. What a perfect game for us to end the season! (34)
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/34.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">getting hooked to Mariposa.</span>*
+*<span style="font-size: 0.75em;">getting hooked to Mariposas</span>*
 
 End of a butterfly season is always a bit sad. This was the last monarch we saw, that took off from one of our favorite flowers and went south. Hopefully we will see some of its offspring next year!
 
