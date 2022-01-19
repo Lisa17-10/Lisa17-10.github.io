@@ -85,10 +85,10 @@ Pipevine Swallowtails and Question Marks visited in smaller numbers. See below a
 <img src="/assets/img/Blogs/2_Fall2021_part2/11a.jpg" width="750px" class="center"/>
 *<span style="font-size: 0.75em;">Pipevine Swallowtail</span>*
 
-The different types of Hairsreak and Silvery Checkerspost visits were short lived. The Silvery Checkerspot is often confused with somewhat similar looking the Pearl Crescent (see photo below from 2020). Do you see the differences?
+The different types of Hairstreak and Gorgone Checkerspot visits were short lived. The Gorgone Checkerspot is often confused with somewhat similar looking the Pearl Crescent (see photo below from 2020). Do you see the differences?
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/12.jpg" width="750px" class="center"/>
-*<span style="font-size: 0.75em;">Silvery Checkerspot</span>*
+*<span style="font-size: 0.75em;">Gorgone Checkerspot</span>*
 
 <img src="/assets/img/Blogs/2_Fall2021_part2/12a.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Pearl Crescent</span>*
@@ -206,7 +206,7 @@ Late November, and the grasshoppers were still showing themselves, though in sma
 <img src="/assets/img/Blogs/2_Fall2021_part2/32.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">A tiny nymph</span>*
 
-The little one in the photo above is a grasshopper nymph (perhaps of the same grasshopper) that we saw very late in the season. It was no bigger than a centimeter. Nymphs don’t have the wings, but this one was happily hopping around in December. I guess it would try to find a warm spot to overwinter as it gets colder.  
+The little one in the photo above is a grasshopper nymph (this one is a Green-striped Grasshopper) that we saw very late in the season. It was no bigger than a centimeter. Nymphs don’t have the wings, but this one was happily hopping around in December. I guess it would try to find a warm spot to overwinter as it gets colder.  
 
 
 When birding and butterflying became slow, stumbling upon these strange looking fruits kept us entertained. It looks like what Professor Shonku would find during his morning walk, bring it home and strange things would follow! You may be tempted to taste it, but it is not easily edible and most foraging animals will not even touch them. It is commonly called Osage orange. There are lots of legends and fun stories around this fruit. <a href="https://www.treehugger.com/osage-orange-tree-brain-fruit-4863165" target="_blank">This</a> write up is a favorite! 
