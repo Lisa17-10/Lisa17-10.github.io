@@ -29,7 +29,7 @@ We have some other exciting ideas involving our friends. More details coming soo
 	</div>
 	
 	<div class="col-md-10">
-		<p><img src="/assets/img/pages/photobooks.jpg" class="img-responsive"/></p>
+		<p><img src="/assets/img/pages/sealhi.jpg" class="img-responsive"/></p>
 	</div>
 	
 		
