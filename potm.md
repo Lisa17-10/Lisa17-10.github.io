@@ -9,7 +9,7 @@ See photos of the months of 2022 below. Older photos will be archived as we move
 **Photo of October**
 
 <img src="/assets/img/POTM/2022/10.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">Gulf Fritillary photographed by Pratyay: My favorite butterfly from our area. The bright orange of the dorsal side of the wings is nice enough, but the beautiful colors and patterns under the wing are too good to ignore. Sreemala is the butterfly in flight expert, but she has been really busy with other things this fall. So, I had to try for some decent flight shots this time around. Hope you like this one. </span>*
+*<span style="font-size: 0.75em;">Gulf Fritillary photographed by Pratyay: My favorite butterfly from our area. The bright orange of the dorsal side of the wings is nice enough, but the beautiful colors and patterns under the wing are too good to ignore. Sreemala is the butterfly in flight expert, but she has been really busy with other things this fall. So, I tried to get some decent flight shots this time around. Hope you like this one. </span>*
 <br>
 <br>
 <br>
