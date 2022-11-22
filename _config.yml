@@ -18,6 +18,8 @@ navbar-links:
   Index: 
     - Tag Index: "/tags"
     - Full Index: "fullindex"
+  Favorites:
+    - Photo of the month: "potm"
   Prints: "prints"
 
 # --- Logo --- #
