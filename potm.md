@@ -9,14 +9,15 @@ See photos of the months of 2022 below. Older photos will be archived as we move
 **Photo of October**
 
 <img src="/assets/img/POTM/2022/10.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">Gulf Fritillary</span>*
+*<span style="font-size: 0.75em;">Gulf Fritillary photographed by Pratyay: My favorite butterfly from our area. The bright orange of the dorsal side of the wings is nice enough, but the beautiful colors and patterns under the wing are too good to ignore. Sreemala is the butterfly in flight expert, but she has been really busy with other things this fall. So, I had to try for some decent flight shots this time around. Hope you like this one. </span>*
 <br>
 <br>
 
 **Photo of September**
 
 <img src="/assets/img/POTM/2022/09.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">Hummingbird</span>*
+*<span style="font-size: 0.75em;">Ruby-throated Hummingbird photographed by Pratyay: September is the hummingbird month as the little ones come to the feeder very frequently to gather all the energy they need before they migrate. 
+We call this bird "One Ruby" since this immature bird is just starting to get the ruby colored feathers on its throat. He is quite territorial and would attack and chase away all the adult males from the feeder area. Then it would come back to its favorite twig and do some stretching and preening. I was very happy to get this backlit photo of One Ruby stretching its tail feathers.</span>*
 <br>
 <br>
 
@@ -33,6 +34,8 @@ See photos of the months of 2022 below. Older photos will be archived as we move
 **Photo of July**
 
 <img src="/assets/img/POTM/2022/07.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">Scissor-tailed Flycatcher</span>*
+*<span style="font-size: 0.75em;">Scissor-tailed Flycatcher photographed by Pratyay: When we moved to North-central Oklahoma four years ago, Sreemala and I, both birders and photographers, were not very hopeful about the bird photography opportunities in this part of the country. Given the fact that we have stayed in places with amazing photo ops in both the Eastern and Western part of the US, there were very little new things we could get, except, of course, the chance to photograph inarguably the best state bird of all states on its breeding ground. Over the last couple years we have got many photos of these Scissor-tailed Flycatchers that we liked. It gives me great joy to look back at their photos and videos (all are not even edited yet) and think about the enjoyable time we spent with them.
+
+This year, one of our goals was to capture them in flight against backgrounds different from the boring blue sky and capture some more photos/videos showing their behaviors. It needs quite a bit of patience, but I think we are getting there. Hope you like this view in front of our local lake. </span>*
 <br>
 <br>
