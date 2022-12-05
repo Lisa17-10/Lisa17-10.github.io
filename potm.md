@@ -8,7 +8,7 @@ See photos of the months of 2022 below. Older photos will be archived as we move
 
 **Photo of November**
 
-<img src="/assets/img/POTM/2022/11.jpg" width="80%"/>
+<img src="/assets/img/POTM/2022/11.jpg" width="750px" class="center"/>
 *<span style="font-size: 0.75em;">'That tree' photographed by Sreemala: Some of you who follow our photography may remember an image of this tree I took three years ago. It was a favorite of mine. This November, we went to this park again. It's typical of this spot to have some nice fog at dawn and the colorful leaves create a wonderful contrast. This time around it was a cloudy morning, and unfortunately, the leaves had already turned brown. So, it wasn't looking very photogenic. As were about to leave, the sun peaked through the cloud and suddenly the leaves that looked brown a few minutes ago turned vibrant orange lit by the golden light of the sun! We captured several photos, me with the longer lens and Pratyay with the wider one. I was quite happy with the outcome. The cormorant flying by was a nice bonus! </span>*
 <br>
 <br>
