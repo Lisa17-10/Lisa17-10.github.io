@@ -36,6 +36,7 @@ title: Full Index
 **[Oklahoma Diaries - January 2022: A birdy spring](https://www.wing-mates.com/2022/02/01/OK_diary_Jan22/)**
 
 <br>
+
 ## 2021
 
 **[Fall stories from Stillwater - Part 2](https://www.wing-mates.com/2022/01/17/Fall_stories_from_Stillwater/)**
