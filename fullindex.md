@@ -30,3 +30,26 @@ title: Full Index
 **[Birdlam 2022: Oklahoma's big birding day](https://www.wing-mates.com/2022/03/03/Birdlam_22/)**
 
 **[Oklahoma Diaries - March 2022: Spring is here](https://www.wing-mates.com/2022/03/03/OK_diary_Mar22/)**
+
+**[Oklahoma Diaries - February 2022: In search of the owls](https://www.wing-mates.com/2022/03/03/OK_diary_Feb22/)**
+
+**[Oklahoma Diaries - January 2022: A birdy spring](https://www.wing-mates.com/2022/02/01/OK_diary_Jan22/)**
+
+
+## 2021
+
+**[Fall stories from Stillwater - Part 2](https://www.wing-mates.com/2022/01/17/Fall_stories_from_Stillwater/)**
+
+**[Fall stories from Stillwater - Part 1](https://www.wing-mates.com/2021/12/12/Fall_stories_from_Stillwater/)**
+
+
+
+
+
+
+
+
+
+
+
+
