@@ -119,28 +119,28 @@ We don't submit to too many photography competitions, but we have been quite suc
 <br>
 
 <img src="/assets/img/Featured/16.jpg" width="750px" class="center"/>
-*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+*<span style="font-size: 0.75em;">Mississippi Kite. Photographed by Pratyay. Oklahoma, 2020. </span>*
 <br>
 <br>
 <br>
 <br>
 
 <img src="/assets/img/Featured/17.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+*<span style="font-size: 0.75em;">Short-eared Owl. Photographed by Pratyay. Oklahoma, 2020. </span>*
 <br>
 <br>
 <br>
 <br>
 
 <img src="/assets/img/Featured/18.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+*<span style="font-size: 0.75em;">Dickcissel. Photographed by Pratyay. Oklahoma, 2021 </span>*
 <br>
 <br>
 <br>
 <br>
 
 <img src="/assets/img/Featured/19.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+*<span style="font-size: 0.75em;">'Trying to fit in'. Photographed by Pratyay. Oklahoma, 2021. </span>*
 <br>
 <br>
 <br>
