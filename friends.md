@@ -23,15 +23,13 @@ Besides regular photo blogs, we plan to write other types of articles regarding 
 We have some other exciting ideas involving our friends. More details coming soon! 
 
 <br>
-<br>
 
 **[Click here to be Friends of Wingmates](https://docs.google.com/forms/d/e/1FAIpQLSdDMOcsrsfuwsKe2Bz8BJtcK6FBJgin2x_t_AYovjSMPn0SbA/viewform)**
 
 
 
 <br>
-<br>
-<br>
+
 
 <img src="/assets/img/pages/pronghornfriends.jpg" width="100%" class="center"/>
 
