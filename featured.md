@@ -14,7 +14,7 @@ We don't submit to too many photography competitions, but we have been quite suc
 <br>
 <br>
 
-<img src="/assets/img/POTM/2022/02.jpg" width="100%"/>
+<img src="/assets/img/Featured/02.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Scissor-tailed flycatcher. Photographed by Pratyay. OKlahoma, 2022. </span>*
 <br>
 <br>
@@ -24,7 +24,7 @@ We don't submit to too many photography competitions, but we have been quite suc
 
 **Other awards**
 
-<img src="/assets/img/POTM/2022/03.jpg" width="100%"/>
+<img src="/assets/img/Featured/03.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">Scissor-tailed flycatcher. Photographed by Sreemala. Colorado, 2017. </span>*
 <br>
 <br>
