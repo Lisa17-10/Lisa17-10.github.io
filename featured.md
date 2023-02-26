@@ -98,14 +98,14 @@ We don't submit to too many photography competitions, but we have been quite suc
 <br>
 
 <img src="/assets/img/Featured/13.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">White-tailed Deer. Photographed by Sreemala. Oklahoma, 2021. </span>*
+*<span style="font-size: 0.75em;">Momma White-tailed Deer. Photographed by Sreemala. Oklahoma, 2021. </span>*
 <br>
 <br>
 <br>
 <br>
 
 <img src="/assets/img/Featured/14.jpg" width="750px" class="center"/>
-*<span style="font-size: 0.75em;">White-tailed Deer. Photographed by Pratyay. Oklahoma, 2022. </span>*
+*<span style="font-size: 0.75em;">White-tailed Deer, two young ones. Photographed by Pratyay. Oklahoma, 2022. </span>*
 <br>
 <br>
 <br>
