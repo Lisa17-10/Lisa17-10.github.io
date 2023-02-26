@@ -25,7 +25,7 @@ title: Full Index
 
 ## 2022
 
-<img src="/assets/img/Blogs/7_OK_diary_Apr22/thumb.jpg" width="10%"/>  **[Oklahoma Diaries - April 2022: A birdy spring](https://www.wing-mates.com/2022/05/05/OK_diary_Apr22/)**
+**[Oklahoma Diaries - April 2022: A birdy spring](https://www.wing-mates.com/2022/05/05/OK_diary_Apr22/)**
 
 **[Birdlam 2022: Oklahoma's big birding day](https://www.wing-mates.com/2022/03/03/Birdlam_22/)**
 
