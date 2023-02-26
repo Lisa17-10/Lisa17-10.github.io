@@ -21,6 +21,7 @@ navbar-links:
     - Full Index: "fullindex"
   Favorites:
     - Photo of the month: "potm"
+    - Featured: "featured"
   Prints: "prints"
 
 # --- Logo --- #
