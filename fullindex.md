@@ -21,10 +21,12 @@ title: Full Index
 <br>
 
 
-# Full index of our blog posts:
+# Full index of our blog posts (in reverse chronological order):
 
 ## 2022
 
 **[Oklahoma Diaries - April 2022: A birdy spring](https://www.wing-mates.com/2022/05/05/OK_diary_Apr22/)**
 
-**[Birdlam 2022: Oklahoma's big birding day](/2022/03/03/Birdlam_22/)**
+**[Birdlam 2022: Oklahoma's big birding day](https://www.wing-mates.com/2022/03/03/Birdlam_22/)**
+
+**[Oklahoma Diaries - March 2022: Spring is here](https://www.wing-mates.com/2022/03/03/OK_diary_Mar22/)**
