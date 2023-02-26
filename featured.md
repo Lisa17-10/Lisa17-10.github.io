@@ -41,7 +41,7 @@ We don't submit to too many photography competitions, but we have been quite suc
 
 
 <img src="/assets/img/Featured/05.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">SHort-eared Owls. Photographed by Pratyay. Oklahoma, 2022. </span>*
+*<span style="font-size: 0.75em;">Short-eared Owls. Photographed by Pratyay. Oklahoma, 2022. </span>*
 <br>
 <br>
 <br>
@@ -63,21 +63,21 @@ We don't submit to too many photography competitions, but we have been quite suc
 <br>
 
 <img src="/assets/img/Featured/08.jpg" width="750px" class="center"/>
-*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+*<span style="font-size: 0.75em;">Scissor-tailed Flycatchers. Photographed by Pratyay. Oklahoma, 2020. </span>*
 <br>
 <br>
 <br>
 <br>
 
 <img src="/assets/img/Featured/09.jpg" width="750px" class="center"/>
-*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+*<span style="font-size: 0.75em;">Antelope Squirrel on cactus. Photographed by Pratyay. Arizona, 2021. </span>*
 <br>
 <br>
 <br>
 <br>
 
 <img src="/assets/img/Featured/10.jpg" width="750px" class="center"/>
-*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+*<span style="font-size: 0.75em;">Fritillary. Photographed by Sreemala. Colorado, 2019. </span>*
 <br>
 <br>
 <br>
