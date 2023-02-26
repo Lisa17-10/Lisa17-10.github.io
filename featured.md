@@ -25,7 +25,7 @@ We don't submit to too many photography competitions, but we have been quite suc
 **Other awards**
 
 <img src="/assets/img/Featured/03.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">Scissor-tailed flycatcher. Photographed by Sreemala. Colorado, 2017. </span>*
+*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
 <br>
 <br>
 <br>
