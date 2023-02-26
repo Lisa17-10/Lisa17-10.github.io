@@ -3,7 +3,7 @@ layout: page
 title: Friends of Wingmates
 ---
 	
-<img src="/assets/img/pages/sealhi.jpg" width="100%" class="center"/>
+<img src="/assets/img/pages/sealhi.jpg" width="80%" class="center"/>
 	
 **Hello!**
 
