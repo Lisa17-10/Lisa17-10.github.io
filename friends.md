@@ -3,6 +3,23 @@ layout: page
 title: Friends of Wingmates
 ---
 
+<div class="container">
+<div class="row">&nbsp;</div>
+<div class="row">
+	
+	
+	<div class="col-md-1">
+		<p></p>
+	</div>
+	
+	<div class="col-md-10">
+		<p><img src="/assets/img/pages/sealhi.jpg" class="img-responsive"/></p>
+	</div>
+	
+		
+</div>
+	
+**Hello!**
 
 If you enjoy reading about our birding adventures and other blogs, you can now let us know by becoming Friends of Wingmates! This is mostly for us to know that you are enjoying the blogs to keep us motivated, but if you like you can also choose the option to subscribe to updates on this website through email or social media. 
 Click on the link below to reach a form where you can choose to do one of the followings:
