@@ -4,7 +4,7 @@ title: Photo of the month
 ---
 
 We started this section post one-year anniversary of 'Wingmates'. We hope you will like our favorites from each month.
-See photos of the months of 2022 below. Older photos will be archived as we move forward... 
+See our recent photos of the months below. Older photos will be archived as we move forward... 
 
 **Photo of January, 2023**
 
