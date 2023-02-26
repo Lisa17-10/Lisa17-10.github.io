@@ -22,7 +22,7 @@ We don't submit to too many photography competitions, but we have been quite suc
 <br>
 
 
-**Other awards**
+**Other awards and features**
 
 <img src="/assets/img/Featured/03.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
@@ -31,6 +31,120 @@ We don't submit to too many photography competitions, but we have been quite suc
 <br>
 <br>
 
+
+<img src="/assets/img/Featured/04.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+<br>
+<br>
+<br>
+<br>
+
+
+<img src="/assets/img/Featured/05.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+<br>
+<br>
+<br>
+<br>
+
+
+<img src="/assets/img/Featured/06.jpg" width="750px" class="center"/>
+*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+<br>
+<br>
+<br>
+<br>
+
+<img src="/assets/img/Featured/07.jpg" width="750px" class="center"/>
+*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+<br>
+<br>
+<br>
+<br>
+
+<img src="/assets/img/Featured/08.jpg" width="750px" class="center"/>
+*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+<br>
+<br>
+<br>
+<br>
+
+<img src="/assets/img/Featured/09.jpg" width="750px" class="center"/>
+*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+<br>
+<br>
+<br>
+<br>
+
+<img src="/assets/img/Featured/10.jpg" width="750px" class="center"/>
+*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+<br>
+<br>
+<br>
+<br>
+
+<img src="/assets/img/Featured/11.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+<br>
+<br>
+<br>
+<br>
+
+<img src="/assets/img/Featured/12.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+<br>
+<br>
+<br>
+<br>
+
+<img src="/assets/img/Featured/13.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+<br>
+<br>
+<br>
+<br>
+
+<img src="/assets/img/Featured/14.jpg" width="750px" class="center"/>
+*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+<br>
+<br>
+<br>
+<br>
+
+<img src="/assets/img/Featured/15.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+<br>
+<br>
+<br>
+<br>
+
+<img src="/assets/img/Featured/16.jpg" width="750px" class="center"/>
+*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+<br>
+<br>
+<br>
+<br>
+
+<img src="/assets/img/Featured/17.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+<br>
+<br>
+<br>
+<br>
+
+<img src="/assets/img/Featured/18.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+<br>
+<br>
+<br>
+<br>
+
+<img src="/assets/img/Featured/19.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+<br>
+<br>
+<br>
+<br>
 
 
 
