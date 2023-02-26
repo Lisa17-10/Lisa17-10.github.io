@@ -33,7 +33,7 @@ We don't submit to too many photography competitions, but we have been quite suc
 
 
 <img src="/assets/img/Featured/04.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+*<span style="font-size: 0.75em;">'One Ruby'. Photographed by Pratyay. Oklahoma, 2022. </span>*
 <br>
 <br>
 <br>
@@ -41,7 +41,7 @@ We don't submit to too many photography competitions, but we have been quite suc
 
 
 <img src="/assets/img/Featured/05.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+*<span style="font-size: 0.75em;">SHort-eared Owls. Photographed by Pratyay. Oklahoma, 2022. </span>*
 <br>
 <br>
 <br>
@@ -49,14 +49,14 @@ We don't submit to too many photography competitions, but we have been quite suc
 
 
 <img src="/assets/img/Featured/06.jpg" width="750px" class="center"/>
-*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+*<span style="font-size: 0.75em;">Short-eared Owl. Photographed by Sreemala. Oklahoma, 2020. </span>*
 <br>
 <br>
 <br>
 <br>
 
 <img src="/assets/img/Featured/07.jpg" width="750px" class="center"/>
-*<span style="font-size: 0.75em;">'The Urban Buddha'. Photographed by Sreemala. Colorado, 2017. </span>*
+*<span style="font-size: 0.75em;">Black-throated Blue Warbler. Photographed by Pratyay. North Carolina, 2022. </span>*
 <br>
 <br>
 <br>
