@@ -22,4 +22,6 @@ title: Full Index
 
 ## Full index of our blog posts:
 
+# 2022
+
 **[Oklahoma Diaries - April 2022: A Birdy Spring](https://www.wing-mates.com/2022/05/05/OK_diary_Apr22/)**
