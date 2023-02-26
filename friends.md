@@ -2,22 +2,8 @@
 layout: page
 title: Friends of Wingmates
 ---
-
-<div class="container">
-<div class="row">&nbsp;</div>
-<div class="row">
 	
-	
-	<div class="col-md-1">
-		<p></p>
-	</div>
-	
-	<div class="col-md-10">
-		<p><img src="/assets/img/pages/sealhi.jpg" class="img-responsive"/></p>
-	</div>
-	
-		
-</div>
+<img src="/assets/img/pages/sealhi.jpg" width="100%" class="center"/>
 	
 **Hello!**
 
