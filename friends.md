@@ -17,23 +17,21 @@ Click on the link below to reach a form where you can choose to do one of the fo
 3.	Choose to receive updates over social media (few choices available) messaging. This is only available for if we already know you. 
 
 We can promise that your email will be kept private. 
-Besides regular photo blogs, we plan to write other types of articles regarding nature and photography. We will be happy to oblige if one of the Friends of Wingmates want us to write us about something in particular. :)
+Besides regular photo blogs, we plan to write other types of articles regarding nature and photography. We will be happy to oblige if Friends of Wingmates want us to write us about something in particular. :)
+
+<br>
 We have some other exciting ideas involving our friends. More details coming soon! 
 
-	
-	
-<div class="container">
-<div class="row">&nbsp;</div>
-<div class="row">
-	
-	
-	<div class="col-md-1">
-		<p></p>
-	</div>
-	
-	<div class="col-md-10">
-		<p><img src="/assets/img/pages/pronghornfriends.jpg" class="img-responsive"/></p>
-	</div>
-	
-		
-</div>
+<br>
+<br>
+
+**[Click here to be Friends of Wingmates](https://docs.google.com/forms/d/e/1FAIpQLSdDMOcsrsfuwsKe2Bz8BJtcK6FBJgin2x_t_AYovjSMPn0SbA/viewform)**
+
+
+
+<br>
+<br>
+<br>
+
+<img src="/assets/img/pages/pronghornfriends.jpg" width="100%" class="center"/>
+
