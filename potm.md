@@ -9,6 +9,7 @@ See our recent photos of the months below. Older photos will be archived as we m
 <br>
 
 **Photo of February, 2023**
+
 <img src="/assets/img/POTM/2023/2.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">'The elusive fox' photographed by Sreemala: Or, not so elusive after all. This is an Island Fox that we recently photographed in the Channel Islands National Park, CA. A relative of the Grey Fox of the mainlands, these little guys evolved to become smaller (and cuter). Their numbers dwindled really badly at one point, but thanks to conservation efforts, they are now not very difficult to find on the island. This particular fox didn't care too much about the humans, and they even vocalized quite a bit during their photoshoot.</span>*
 <br>
