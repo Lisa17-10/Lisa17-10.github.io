@@ -8,6 +8,73 @@ See our recent photos of the months below. Older photos will be archived as we m
 
 <br>
 
+
+**Photo of September, 2023**
+
+<img src="/assets/img/POTM/2023/9.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'A giant beauty!' photographed by Pratyay: We recently photographed some beautiful Giant Swallowtails nectaring on these native thistles. These butterflies are bold and beautiful... and large! They happen to be the largest butterfly in North America.</span>*
+<br>
+<br>
+<br>
+<br>
+
+**Photo of August, 2023**
+
+<img src="/assets/img/POTM/2023/8.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'A sunset composition' photographed by Pratyay: I was composing this nice sunset at our favorite lakeside, and I was hoping that a bird would fly in the scene. Speaking about composition, I loved how the flowers over the grasses looked against the purple sky and the scene asymmetrically framed by the tree and its leaves. The only thing missing was something flying in from the right. While it was definitely a possibility that a Purple Martin or a flycatcher would fly in, the execution is easier said than done because the bird may not be at the same distance where I wanted my focus to be. It took a bit of patience, but finally it did work out with this Common Grackle appearing in the scene. </span>*
+<br>
+<br>
+<br>
+<br>
+
+**Photo of July, 2023**
+
+<img src="/assets/img/POTM/2023/7.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Light and shadows' photographed by Sreemala: A scissor-tailed Flycatcher takes off after feeding on the grassy field. I always like when I can catch the bird in nice light against a darker backdrop. The sidelight on the front part of the bird was a bonus!</span>*
+<br>
+<br>
+<br>
+<br>
+
+**Photo of June, 2023**
+
+<img src="/assets/img/POTM/2023/6.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'The usual "Scissor-tailed" pose' photographed by Pratyay: A classic scissortail photo at sunset. The golden light always makes this beautiful bird look even more beautiful!</span>*
+<br>
+<br>
+<br>
+<br>
+
+**Photo of May, 2023**
+
+<img src="/assets/img/POTM/2023/5.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Sreeja's first bird on her life list!' photographed by Pratyay: We went out to the lake for the first time after Sreeja's birth, and this beautiful Orchard Oriole welcomed us with its complicated song. </span>*
+<br>
+<br>
+<br>
+<br>
+
+**Photo of April, 2023**
+
+<img src="/assets/img/POTM/2023/4.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'The beautiful Sphinx' Always so much fun to see the White-lined Sphinx moths hovering over the wildflowers in our yard! I was glad to get this image of the back of its wings in full display! </span>*
+<br>
+<br>
+<br>
+<br>
+
+
+**Photo of March, 2023**
+
+<img src="/assets/img/POTM/2023/3.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Henbit and the Sulphur' photographed by Pratyay: Pollinators arrived soon to our yard full of common henbits including this first of the season Orange Sulphur butterfly.</span>*
+<br>
+<br>
+<br>
+<br>
+
+
+
 **Photo of February, 2023**
 
 <img src="/assets/img/POTM/2023/2.jpg" width="100%"/>
