@@ -72,7 +72,7 @@ The Birdlam shirts were lovely! So, like every year, a Birdlam shirt selfie was 
 		<img src="/assets/img/DP/JC_DP_Sep23.jpg" class="img-responsive" alt="Pratyaydipta Rudra"/>
 	</div>
 	<div class="col-md-8">
-	<h3>Pratyaydipta Rudra</h3>
+	<h3>Sreeja Rudra</h3>
 		<p> 
 			I am the newest member of the team! I have enjoyed going to the lake with mom and dad so far. The birds are kinda nice. I can't identify them yet, but they often have a sweet voice, just like me! I played with dad's camera during a photo session. I figured that it works OK even though it's an old model. I might be able to give it a try!  
 		</p>
