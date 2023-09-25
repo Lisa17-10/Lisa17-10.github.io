@@ -54,7 +54,7 @@ The Birdlam shirts were lovely! So, like every year, a Birdlam shirt selfie was 
 	<div class="col-md-8">
 	<h3>Sreemala Das Majumder</h3>
 		<p> 
-			I am currently pursuing a Doctorate degree in Civil Engineering at the College of Engineering, Architecture, and Technology at Oklahoma State University. My research is focused on treatment wetlands and greenhouse gas emissions. When I am not working in the lab, I enjoy being outside, photographing and learning about birds. Unlike Pratyay, I hate editing my photos, which has led to thousands of unedited photos on my hard disk! I hope this blog will help me getting motivated to share more of the photos that I have captured!
+			I am currently pursuing a Doctorate degree in Environmental Science at Oklahoma State University. When I am not working in the lab, I enjoy being outside, photographing and learning about birds. Unlike Pratyay, I hate editing my photos, which has led to thousands of unedited photos on my hard disk! I hope this blog will help me getting motivated to share more of the photos that I have captured!
 		</p>
 	</div>
 	<div class="col-md-4">
