@@ -16,6 +16,21 @@ We try to learn more about our natural world and conservation biology, which is 
 <br>
 <br>
 
+## 2023 update
+
+![](/assets/img/DP/birdlam23.jpg)
+
+We had a very important life event in 2023... We became parents of a beautiful little human... Sreeja, as we call her, was born in May, 2023, and our lives changed immediately. She became part of the Wingmates by default, of course with the choice of seceding when she grows up. But it seems like she it enjoying the outings with us so far. She is curious about everything, which includes the natural world. Here's the story behind the picture above...
+
+Earlier this spring, we participated in the Birdlam by Payne County Audubon Society and for the second year running, won the maximum number of species seen by a group. We didn't cover as much ground as we were expecting Sreeja in a few weeks, but still ended up with more than a 100 species for the day. 
+Ironically, despite finding so many species, we didn't find a single Gray Catbird, which was the target bird for this year's Birdlam. Fast forward a couple days after the contest, and I saw this silhouette of a shouting bird in our backyard. A Catbird! It was trying to compete with the Mockingbirds and Brown Thrashers for the top prize in the maximum call variation category. More Catbirds soon arrived in our backyard. 
+
+The Birdlam shirts were lovely! So, like every year, a Birdlam shirt selfie was due. Since all three of us took part in a way, there was no reason to exclude the little one from the photo. No shirt for her this time, but we found a make shift way to wear the Birdlam logo. Of course, she didn't look at the camera when the timer went off! Was perhaps busy searching for a Gray Catbird up in the trees?
+
+
+<br>
+<br>
+
 <div class="container">
 <div class="row">&nbsp;</div>
 <div class="row">
@@ -47,6 +62,22 @@ We try to learn more about our natural world and conservation biology, which is 
 	</div>
 	
 </div>	
+
+<br>
+
+<div class="container">
+<div class="row">&nbsp;</div>
+<div class="row">
+	<div class="col-md-4">
+		<img src="/assets/img/DP/JC_DP_Sep23.jpg" class="img-responsive" alt="Pratyaydipta Rudra"/>
+	</div>
+	<div class="col-md-8">
+	<h3>Pratyaydipta Rudra</h3>
+		<p> 
+			I am the newest member of the team! I have enjoyed going to the lake with mom and dad so far. The birds are kinda nice. I can't identify them yet, but they often have a sweet voice, just like me! I played with dad's camera during a photo session. I figured that it works OK even though it's an old model. I might be able to give it a try!  
+		</p>
+	</div>
+</div>
 
 	
 <br>
