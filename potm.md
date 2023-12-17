@@ -8,6 +8,23 @@ See our recent photos of the months below. Older photos will be archived as we m
 
 <br>
 
+**Photo of November, 2023**
+
+<img src="/assets/img/POTM/2023/9.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'The dawn takeoff' photographed by Pratyay: This unfolded as I came out of the tent at sunrise after camping by a nearby lake. The Franklin's Gulls (in the background, near the dam) usually take off after a good night's rest on the water as the first ray of sun hits them. So did the Great Blue Heron. The pink sky and water and the fog made the scene more beautiful.</span>*
+<br>
+<br>
+<br>
+<br>
+
+**Photo of October, 2023**
+
+<img src="/assets/img/POTM/2023/9.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Little scissors!' photographed by Pratyay: The females and immature scissortails don't have a tail as long as the male birds, but these shorter-tailed ones are more abundant during the fall before the migrate South (mostly due to all the new ones born this year). Here is one from this fall.</span>*
+<br>
+<br>
+<br>
+<br>
 
 **Photo of September, 2023**
 
