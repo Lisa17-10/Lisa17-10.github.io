@@ -17,8 +17,6 @@ gh-repo:  Lisa17-10/Lisa17-10.github.io
 
 <img src="/assets/img/DP/Authors_PDR_SDM.jpg" alt="Pratyay and Sreemala" width="300px"/>
 
-!(../assets/img/DP/Authors_PDR_SDM.jpg)
-
 Welcome to Sreemala and Pratyay’s BnB, birds and butterflies, that is! 
 
 Fall in Stillwater is now over… well, almost. The days are still pretty warm, sometimes unusually so! As we wait for finally welcoming the winter, we are still basking in the warmth of the colorful photos we took this fall!  
