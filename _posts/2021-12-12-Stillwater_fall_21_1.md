@@ -17,7 +17,7 @@ gh-repo:  Lisa17-10/Lisa17-10.github.io
 
 <img src="/assets/img/DP/Authors_PDR_SDM.jpg" alt="Pratyay and Sreemala" width="300px"/>
 
-!(/assets/img/DP/Authors_PDR_SDM.jpg)
+!(./assets/img/DP/Authors_PDR_SDM.jpg)
 
 Welcome to Sreemala and Pratyay’s BnB, birds and butterflies, that is! 
 
