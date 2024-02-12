@@ -10,7 +10,7 @@ See our recent photos of the months below. Older photos will be archived as we m
 
 **Photo of January, 2024**
 
-<img src="/assets/img/POTM/2023/1.jpg" width="100%"/>
+<img src="/assets/img/POTM/2024/1.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">'The beautiful Cedar Waxwing' photographed by Pratyay: These birds may look like dull brownish bird from a distance. But look closer, and you will see all these beautiful colors.</span>*
 <br>
 <br>
