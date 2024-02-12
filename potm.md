@@ -8,6 +8,24 @@ See our recent photos of the months below. Older photos will be archived as we m
 
 <br>
 
+**Photo of January, 2024**
+
+<img src="/assets/img/POTM/2023/1.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'The beautiful Cedar Waxwing' photographed by Pratyay: These birds may look like dull brownish bird from a distance. But look closer, and you will see all these beautiful colors.</span>*
+<br>
+<br>
+<br>
+<br>
+
+**Photo of December, 2023**
+
+<img src="/assets/img/POTM/2023/12.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Short-eared Owl at dusk' photographed by Pratyay: We went out looking for Short-eared Owls after a long time and we founds some!. We would have loved more of a natural perch, but this close encounter after the sunset was still worth it! </span>*
+<br>
+<br>
+<br>
+<br>
+
 **Photo of November, 2023**
 
 <img src="/assets/img/POTM/2023/11.jpg" width="100%"/>
