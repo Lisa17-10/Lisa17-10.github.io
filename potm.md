@@ -30,7 +30,7 @@ See our recent photos of the months below. Older photos will be archived as we m
 
 **Photo of February, 2024**
 
-<img src="/assets/img/POTM/2024/1.jpg" width="100%"/>
+<img src="/assets/img/POTM/2024/2.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">'Red-shafted Flicker' photographed by Pratyay: An uncommon visitor to the yard, a female Northern Flicker!</span>*
 <br>
 <br>
