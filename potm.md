@@ -11,7 +11,7 @@ See our recent photos of the months below. Older photos will be archived as we m
 **Photo of April, 2024**
 
 <img src="/assets/img/POTM/2024/4.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">'Festival of colors' photographed by Pratyay: We photographed Painted Buntings up close after a very long time. These birds are unbelievable colorful!</span>*
+*<span style="font-size: 0.75em;">'Festival of colors' photographed by Pratyay: We photographed Painted Buntings up close after a very long time. These birds are unbelievably colorful!</span>*
 <br>
 <br>
 <br>
