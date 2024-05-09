@@ -5,7 +5,7 @@ share-img: /assets/img/Blogs/11_OK_diary_FebMar24/sharethumb.jpg
 thumbnail-img: /assets/img/Blogs/11_OK_diary_FebMar24/thumb.jpg
 permalink: /2024/04/01/OK_diary_FebMar24/
 subtitle: February-March 2024 - Early Spring
-excerpt: 
+excerpt: Our backyard starts getting pretty busy in February. The cardinals start singing, and the blossoms start popping up. The cedar waxwings were regulars over the winter as we had a good season for our berries. But in early spring, they were after something else… the buds!
 cover-img: /assets/img/Blogs/11_OK_diary_FebMar24/cover.jpg
 category: Monthly_Updates
 gh-repo: Lisa17-10/Lisa17-10.github.io
