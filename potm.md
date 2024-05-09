@@ -20,7 +20,7 @@ See our recent photos of the months below. Older photos will be archived as we m
 
 **Photo of March, 2024**
 
-<img src="/assets/img/POTM/2024/.jpg" width="100%"/>
+<img src="/assets/img/POTM/2024/3.jpg" width="100%"/>
 *<span style="font-size: 0.75em;">'Red-bellied Takeoff' photographed by Pratyay: Had fun photographing our reliable Red-bellied Woodpeckers in the backyard.</span>*
 <br>
 <br>
