@@ -8,6 +8,36 @@ See our recent photos of the months below. Older photos will be archived as we m
 
 <br>
 
+**Photo of April, 2024**
+
+<img src="/assets/img/POTM/2024/4.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Festival of colors' photographed by Pratyay: We photographed Painted Buntings up close after a very long time. These birds are unbelievable colorful!</span>*
+<br>
+<br>
+<br>
+<br>
+
+
+**Photo of March, 2024**
+
+<img src="/assets/img/POTM/2024/.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Red-bellied Takeoff' photographed by Pratyay: Had fun photographing our reliable Red-bellied Woodpeckers in the backyard.</span>*
+<br>
+<br>
+<br>
+<br>
+
+
+**Photo of February, 2024**
+
+<img src="/assets/img/POTM/2024/1.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Red-shafted Flicker' photographed by Pratyay: An uncommon visitor to the yard, a female Northern Flicker!</span>*
+<br>
+<br>
+<br>
+<br>
+
+
 **Photo of January, 2024**
 
 <img src="/assets/img/POTM/2024/1.jpg" width="100%"/>
