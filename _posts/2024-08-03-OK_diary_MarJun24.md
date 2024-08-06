@@ -129,7 +129,7 @@ The showing up of the butterflies in spring and early summer is always a joy to 
 <img src="/assets/img/Blogs/12_OK_diary_MarJun24/28.jpg" class="center" width="100%"/>
 *<span style="font-size: 0.75em;">Checkered Skipper.</span>*
 
-End of April is the time for Birdlam, our local birding competition! It’s always a lot of fun to take part in it. See our Birdlam 2024 blog to read more about our birding adventures. Here’s a sneak peak at one of the better looking birds we saw on that day… the ever colorful male Painted Bunting!
+End of April is the time for Birdlam, our local birding competition! It’s always a lot of fun to take part in it. See our <a href="https://www.wing-mates.com/2023/03/01/Birdlam24/" target="_blank">Birdlam 2024 blog</a> to read more about our birding adventures. Here’s a sneak peak at one of the better looking birds we saw on that day… the ever colorful male Painted Bunting!
 
 
 <img src="/assets/img/Blogs/12_OK_diary_MarJun24/29.jpg" class="center" width="100%"/>
