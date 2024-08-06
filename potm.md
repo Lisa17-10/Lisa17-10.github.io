@@ -8,6 +8,25 @@ See our recent photos of the months below. Older photos will be archived as we m
 
 <br>
 
+**Photo of June, 2024**
+
+<img src="/assets/img/POTM/2024/6.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+<br>
+<br>
+<br>
+<br>
+
+**Photo of May, 2024**
+
+<img src="/assets/img/POTM/2024/5.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'A classic view' photographed by Pratyay: Spring in Stillwater must include a scissortail image!</span>*
+<br>
+<br>
+<br>
+<br>
+
+
 **Photo of April, 2024**
 
 <img src="/assets/img/POTM/2024/4.jpg" width="100%"/>
