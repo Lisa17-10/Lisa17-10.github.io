@@ -8,6 +8,114 @@ See our recent photos of the months below. Older photos will be archived as we m
 
 <br>
 
+**Photo of June, 2025**
+
+<img src="/assets/img/POTM/2025/6.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+<br>
+<br>
+<br>
+<br>
+
+**Photo of May, 2025**
+
+<img src="/assets/img/POTM/2025/5.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+<br>
+<br>
+<br>
+<br>
+
+**Photo of April, 2025**
+
+<img src="/assets/img/POTM/2025/4.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+<br>
+<br>
+<br>
+<br>
+
+**Photo of March, 2025**
+
+<img src="/assets/img/POTM/2025/3.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+<br>
+<br>
+<br>
+<br>
+
+**Photo of February, 2025**
+
+<img src="/assets/img/POTM/2025/2.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+<br>
+<br>
+<br>
+<br>
+
+**Photo of January, 2025**
+
+<img src="/assets/img/POTM/2025/1.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+<br>
+<br>
+<br>
+<br>
+
+**Photo of December, 2024**
+
+<img src="/assets/img/POTM/2024/12.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+<br>
+<br>
+<br>
+<br>
+
+**Photo of November, 2024**
+
+<img src="/assets/img/POTM/2024/11.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+<br>
+<br>
+<br>
+<br>
+
+**Photo of October, 2024**
+
+<img src="/assets/img/POTM/2024/10.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+<br>
+<br>
+<br>
+<br>
+
+**Photo of September, 2024**
+
+<img src="/assets/img/POTM/2024/9.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+<br>
+<br>
+<br>
+<br>
+
+**Photo of August, 2024**
+
+<img src="/assets/img/POTM/2024/8.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+<br>
+<br>
+<br>
+<br>
+
+**Photo of July, 2024**
+
+<img src="/assets/img/POTM/2024/7.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+<br>
+<br>
+<br>
+<br>
+
 **Photo of June, 2024**
 
 <img src="/assets/img/POTM/2024/6.jpg" width="100%"/>
