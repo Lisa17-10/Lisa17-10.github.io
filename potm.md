@@ -74,7 +74,7 @@ See our recent photos of the months below. Older photos will be archived as we m
 **Photo of November, 2024**
 
 <img src="/assets/img/POTM/2024/11.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">'The moon-eater of Stillwater!' photographed by Pratyay: Something different here! While photographing the full moon at the lake, I found this oak tree in the foreground quite ineteresting and decided to compose the frame with the monster tree devouring hte moon.</span>*
+*<span style="font-size: 0.75em;">'The moon-eater of Stillwater!' photographed by Pratyay: Something different here! While photographing the full moon at the lake, I found this oak tree in the foreground quite ineteresting and decided to compose the frame with the monster tree devouring the moon.</span>*
 <br>
 <br>
 <br>
