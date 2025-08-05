@@ -110,7 +110,7 @@ See our recent photos of the months below. Older photos will be archived as we m
 **Photo of July, 2024**
 
 <img src="/assets/img/POTM/2024/7.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">'A Giant SUrprise!' photographed by Sreemala: We were delighted to find this Giant Swallowtail in our yard one summer morning. Look at the handsome fella coming in onto the Zinnia.</span>*
+*<span style="font-size: 0.75em;">'A Giant Surprise!' photographed by Sreemala: We were delighted to find this Giant Swallowtail in our yard one summer morning. Look at the handsome fella coming in onto the Zinnia.</span>*
 <br>
 <br>
 <br>
