@@ -11,7 +11,7 @@ See our recent photos of the months below. Older photos will be archived as we m
 **Photo of June, 2025**
 
 <img src="/assets/img/POTM/2025/6.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+*<span style="font-size: 0.75em;">'Little fingers' photographed by Pratyay: It was hard to choose the best photo from June since we travelled and got many great photos. But this one from Stillwater ended up being my favorite one due to obvious personal reasons. I am glad that our two-year old likes finding butterflies, and in this case she pointed at this very tiny Phaon Crescent. I am sure she will learn over time that they can be enjoyed without going so close, but for now I am just happy that she enjoys her time outdoors with all kinds of critters.</span>*
 <br>
 <br>
 <br>
@@ -20,7 +20,7 @@ See our recent photos of the months below. Older photos will be archived as we m
 **Photo of May, 2025**
 
 <img src="/assets/img/POTM/2025/5.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+*<span style="font-size: 0.75em;">'Black and white notes' photographed by Pratyay: Found this singing Black and White Warbler during our quick trip to Eastern Oklahoma.</span>*
 <br>
 <br>
 <br>
@@ -29,7 +29,7 @@ See our recent photos of the months below. Older photos will be archived as we m
 **Photo of April, 2025**
 
 <img src="/assets/img/POTM/2025/4.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+*<span style="font-size: 0.75em;">'Yet another Scissortail fight' photographed by Pratyay: We haven't photographed many scissortails lately, so took a trip out to the lakes and found these guys.</span>*
 <br>
 <br>
 <br>
@@ -38,7 +38,7 @@ See our recent photos of the months below. Older photos will be archived as we m
 **Photo of March, 2025**
 
 <img src="/assets/img/POTM/2025/3.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+*<span style="font-size: 0.75em;">'The resilience of nature.' photographed by Pratyay: This area in Stillwater got heavily burnt during the devastating wildfire in March (see the black black burnt pine branches). But this Pine Warbler was moving around and singing as usual when we visited the area a few days after the fire...</span>*
 <br>
 <br>
 <br>
@@ -47,7 +47,7 @@ See our recent photos of the months below. Older photos will be archived as we m
 **Photo of February, 2025**
 
 <img src="/assets/img/POTM/2025/2.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+*<span style="font-size: 0.75em;">'A drop of blood!' photographed by Pratyay: A male Northern Cardinal from a snow day.</span>*
 <br>
 <br>
 <br>
@@ -56,7 +56,7 @@ See our recent photos of the months below. Older photos will be archived as we m
 **Photo of January, 2025**
 
 <img src="/assets/img/POTM/2025/1.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+*<span style="font-size: 0.75em;">'The winter grays' photographed by Pratyay: A Red-tailed Hawk soaring over the Oklahoma plains.</span>*
 <br>
 <br>
 <br>
@@ -65,7 +65,7 @@ See our recent photos of the months below. Older photos will be archived as we m
 **Photo of December, 2024**
 
 <img src="/assets/img/POTM/2024/12.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+*<span style="font-size: 0.75em;">'Bee-eaters of Santiniketan' photographed by Sreemala: Asian Green Bee-eater in territorial battle, photographed during our visit to Pratyay's hometown in India.</span>*
 <br>
 <br>
 <br>
@@ -74,7 +74,7 @@ See our recent photos of the months below. Older photos will be archived as we m
 **Photo of November, 2024**
 
 <img src="/assets/img/POTM/2024/11.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+*<span style="font-size: 0.75em;">'The moon-eater of Stillwater!' photographed by Pratyay: Something different here! While photographing the full moon at the lake, I found this oak tree in the foreground quite ineteresting and decided to compose the frame with the monster tree devouring hte moon.</span>*
 <br>
 <br>
 <br>
@@ -83,7 +83,7 @@ See our recent photos of the months below. Older photos will be archived as we m
 **Photo of October, 2024**
 
 <img src="/assets/img/POTM/2024/10.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+*<span style="font-size: 0.75em;">'The little one in action' photographed by Pratyay: Willowleaf aster is one of the last flowers to bloom in our yard and the Dainty Sulphur is one of the last butterflies to visit. We had a wonderful time photographing them.</span>*
 <br>
 <br>
 <br>
@@ -92,7 +92,7 @@ See our recent photos of the months below. Older photos will be archived as we m
 **Photo of September, 2024**
 
 <img src="/assets/img/POTM/2024/9.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+*<span style="font-size: 0.75em;">'The glowing wings' photographed by Pratyay: When the light strikes the Gulf Fritilary's wings from the top, it glows! Enjoyed photographing this beauty sitting at a dark spot toplit a little bit by the midday sun!</span>*
 <br>
 <br>
 <br>
@@ -101,7 +101,7 @@ See our recent photos of the months below. Older photos will be archived as we m
 **Photo of August, 2024**
 
 <img src="/assets/img/POTM/2024/8.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+*<span style="font-size: 0.75em;">'Butterfly battles!' photographed by Sreemala: A skipper approaching a golden crownbeard flower taken by a Bordered Patch.</span>*
 <br>
 <br>
 <br>
@@ -110,7 +110,7 @@ See our recent photos of the months below. Older photos will be archived as we m
 **Photo of July, 2024**
 
 <img src="/assets/img/POTM/2024/7.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">'Moth Monday!' photographed by Pratyay: My old friend, White-winged Sphinx, nectaring on Common Vetch.</span>*
+*<span style="font-size: 0.75em;">'A Giant SUrprise!' photographed by Sreemala: We were delighted to find this Giant Swallowtail in our yard one summer morning. Look at the handsome fella coming in onto the Zinnia.</span>*
 <br>
 <br>
 <br>
