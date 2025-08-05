@@ -11,7 +11,7 @@ See our recent photos of the months below. Older photos will be archived as we m
 **Photo of June, 2025**
 
 <img src="/assets/img/POTM/2025/6.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">'Little fingers' photographed by Pratyay: It was hard to choose the best photo from June since we travelled and got many great photos. But this one from Stillwater ended up being my favorite one due to obvious personal reasons. I am glad that our two-year old likes finding butterflies, and in this case she pointed at this very tiny Phaon Crescent. I am sure she will learn over time that they can be enjoyed without going so close, but for now I am just happy that she enjoys her time outdoors with all kinds of critters.</span>*
+*<span style="font-size: 0.75em;">'Little fingers' photographed by Pratyay: It was hard to choose the best photo from June since we travelled and got many great photos. But this one from Stillwater ended up being my favorite one due to obvious personal reasons. I am glad that our two-year old likes finding butterflies, and in this case she pointed at this very tiny Phaon Crescent. I am sure she will learn over time that they can be observed without going so close, but for now I am just happy that she enjoys her time outdoors with all kinds of critters.</span>*
 <br>
 <br>
 <br>
