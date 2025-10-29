@@ -8,6 +8,43 @@ See our recent photos of the months below. Older photos will be archived as we m
 
 <br>
 
+
+**Photo of October, 2025**
+
+<img src="/assets/img/POTM/2025/10.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Happy Fritillaries' photographed by Pratyay: Two happy little Gulf Fritillaries visiting our Swamp milkweeds. The milkweed was not just a huge favorite of the monarchs, all kinds of pollinators love them. </span>*
+<br>
+<br>
+<br>
+<br>
+
+**Photo of September, 2025**
+
+<img src="/assets/img/POTM/2025/9.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Swallowtail take off' photographed by Pratyay: Pipevine Swallowtail on garden phlox. </span>*
+<br>
+<br>
+<br>
+<br>
+
+**Photo of August, 2025**
+
+<img src="/assets/img/POTM/2025/8.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Symmetry' photographed by Sreemala: I was glad to capture this Eastern Tiger Swallowtail flying in with almost perfect wing position...</span>*
+<br>
+<br>
+<br>
+<br>
+
+**Photo of July, 2025**
+
+<img src="/assets/img/POTM/2025/7.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Kickboxers on the milkweed' photographed by Pratyay: This is from one of my most favorite series from this summer. This was also my first encounter with a Diana Fritillary. This male Diana was nectaring on the butterfly milkweed when the Monarch flew in. Mr Fritillary wasn't happy at all. There was some kickboxing that took place at this point and the Diana was finally able to win the battle as the Monarch went away.</span>*
+<br>
+<br>
+<br>
+<br>
+
 **Photo of June, 2025**
 
 <img src="/assets/img/POTM/2025/6.jpg" width="100%"/>
