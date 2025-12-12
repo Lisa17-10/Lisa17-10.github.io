@@ -9,6 +9,15 @@ See our recent photos of the months below. Older photos will be archived as we m
 <br>
 
 
+**Photo of November, 2025**
+
+<img src="/assets/img/POTM/2025/11.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Opportunity' photographed by Pratyay: A moth caterpillar covered in parasitoid wasp cocoons, but it was still alive. A flesh fly, seemingly attracted to the weakened insect, approaches to inspect it. The scene captures a brief moment of nature’s opportunistic interactions. </span>*
+<br>
+<br>
+<br>
+<br>
+
 **Photo of October, 2025**
 
 <img src="/assets/img/POTM/2025/10.jpg" width="100%"/>
