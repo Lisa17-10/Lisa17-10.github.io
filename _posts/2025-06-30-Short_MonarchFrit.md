@@ -1,6 +1,6 @@
 ---
 title: Diana and the Monarch
-tags: short
+tags: [Oklahoma, Buuterflies, Short]
 share-img: /assets/img/Shorts/1_MonarchFrit/thumb.jpg
 thumbnail-img: /assets/img/Shorts/1_MonarchFrit/thumb.jpg
 permalink: /2025/06/30/MonarchFrit/
