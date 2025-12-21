@@ -1,6 +1,6 @@
 ---
 title: Diana and the Monarch
-tags:
+tags: short
 share-img: /assets/img/Shorts/1_MonarchFrit/thumb.jpg
 thumbnail-img: /assets/img/Shorts/1_MonarchFrit/thumb.jpg
 permalink: /2025/06/30/MonarchFrit/
@@ -21,7 +21,6 @@ Just to be clear, this short post has nothing to do with the British Royal Famil
 This male Diana was nectaring on the butterfly milkweed when the Monarch flew in.
 
 <img src="/assets/img/Shorts/1_MonarchFrit/1.jpg" class="center" width="100%"/>
-
 *<span style="font-size: 0.75em;">Monarch trying to take over the butterfly milkweed already occupied by the fritillary. </span>*
 
 Mr Fritillary wasn't happy at all. There was some kickboxing that took place at this point and there was a clear winner... Any guess who it was?
@@ -33,7 +32,6 @@ Mr Fritillary wasn't happy at all. There was some kickboxing that took place at 
 <img src="/assets/img/Shorts/1_MonarchFrit/4.jpg" class="center" width="100%"/>
 
 <img src="/assets/img/Shorts/1_MonarchFrit/5.jpg" class="center" width="100%"/>
-
 *<span style="font-size: 0.75em;">Butterfly kickboxing.</span>*
 
 Diana was able to stand its ground. The Monarch finally gave up and took off.
