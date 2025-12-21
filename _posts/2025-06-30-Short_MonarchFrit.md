@@ -5,7 +5,7 @@ share-img: /assets/img/Shorts/1_MonarchFrit/thumb.jpg
 thumbnail-img: /assets/img/Shorts/1_MonarchFrit/thumb.jpg
 permalink: /2025/06/30/MonarchFrit/
 subtitle: A face-off
-excerpt:
+excerpt: This is one of my most favorite series from this summer. This was also my first encounter with a Diana Fritillary. 
 cover-img: /assets/img/DP/gencover1.jpg
 category: Oklahoma_Birding
 gh-repo: Lisa17-10/Lisa17-10.github.io
