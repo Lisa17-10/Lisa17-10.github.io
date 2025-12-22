@@ -1,6 +1,6 @@
 ---
 title: Oklahoma Diaries
-tags: [Oklahoma, Backyard, Spring]
+tags: [Oklahoma, Backyard, Spring, Wildflowers]
 share-img: /assets/img/Blogs/11_OK_diary_FebMar24/sharethumb.jpg
 thumbnail-img: /assets/img/Blogs/11_OK_diary_FebMar24/thumb.jpg
 permalink: /2024/04/01/OK_diary_FebMar24/
