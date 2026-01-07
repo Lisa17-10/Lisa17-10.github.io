@@ -26,7 +26,7 @@ The icicles on the branches and the leaves created some interesting shapes with 
 
 <img src="/assets/img/Shorts/2_IceStorm/3.jpg" class="center" width="100%"/>
 
-<img src="/assets/img/Shorts/2_IceStorm/4.jpg" class="center" width="100%"/>
+<img src="/assets/img/Shorts/2_IceStorm/4.jpg" class="center" width=750px/>
 
 <img src="/assets/img/Shorts/2_IceStorm/5.jpg" class="center" width=750px/>
 *<span style="font-size: 0.75em;">A Fox Squirrel navigating the icy terrain</span>*
@@ -39,14 +39,14 @@ I found several hungry Yellow-rumped Warblers jumping around among the icicles. 
 
 <img src="/assets/img/Shorts/2_IceStorm/8.jpg" class="center" width="100%"/>
 
-<img src="/assets/img/Shorts/2_IceStorm/9.jpg" class="center" width==750px/>
+<img src="/assets/img/Shorts/2_IceStorm/9.jpg" class="center" width=750px/>
 
 <img src="/assets/img/Shorts/2_IceStorm/10.jpg" class="center" width="100%"/>
 *<span style="font-size: 0.75em;">A Northern Mockingbird</span>*
 
 Even when it was not icy, the continuous rain and the low temperature made it quite miserable to stay out there. No wonder all the birds look grumpy!
 
-<img src="/assets/img/Shorts/2_IceStorm/11.jpg" class="center" width==750px/>
+<img src="/assets/img/Shorts/2_IceStorm/11.jpg" class="center" width=750px/>
 *<span style="font-size: 0.75em;">Eastern Bluebird</span>*
 
 <img src="/assets/img/Shorts/2_IceStorm/12.jpg" class="center" width="100%"/>
