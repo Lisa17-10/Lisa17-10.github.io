@@ -22,7 +22,7 @@ We don't submit to too many photography competitions, but we have been quite suc
 <br>
 
 <img src="/assets/img/Featured/20.jpg" width="750px" class="center"/>
-*<span style="font-size: 0.75em;">'Singing in the rain'. Photographed by Pratyay. Hawaii, 2021. </span>* "
+*<span style="font-size: 0.75em;">'Singing in the rain'. Photographed by Pratyay. Hawaii, 2021. </span>* 
 <br>
 <br>
 <br>
