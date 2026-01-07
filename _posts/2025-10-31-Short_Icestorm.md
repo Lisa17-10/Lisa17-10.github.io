@@ -52,5 +52,5 @@ Even when it was not icy, the continuous rain and the low temperature made it qu
 <img src="/assets/img/Shorts/2_IceStorm/12.jpg" class="center" width="100%"/>
 *<span style="font-size: 0.75em;">Chipping Sparrow</span>*
 
-As this was not enough, a huge snowstorm rolled in 3 months later which nearly killed off all our local bluebirds. I have not seen a storm like that one in Oklahoma, but that's for another day.  
+As if this was not enough, a huge snowstorm rolled in 3 months later which nearly killed off all our local bluebirds. I have not seen a storm like that one in Oklahoma, but that's for another day.  
 
