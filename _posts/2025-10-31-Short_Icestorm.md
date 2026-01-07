@@ -1,11 +1,11 @@
 ---
-title: The Ice storm...
-tags:
+title: The Ice storm
+tags: [Oklahoma, Winter, Short]
 share-img: /assets/img/Shorts/2_IceStorm/sharethumb.jpg
 thumbnail-img: /assets/img/Shorts/2_IceStorm/thumb.jpg
 permalink: /2025/10/31/IceStorm/
 subtitle: with the frozen hearts
-excerpt:
+excerpt: There was a terrible ice storm in Oklahoma exactly five years ago. It was extremely cold, raining all day, and the trees were having a hard time surviving with all the ice on them. Several trees fell in our neighborhood, and a lot of others lost big branches. The birds had a tough time.
 cover-img: /assets/img/DP/gencover1.jpg
 category: Oklahoma_Birding
 gh-repo: Lisa17-10/Lisa17-10.github.io
