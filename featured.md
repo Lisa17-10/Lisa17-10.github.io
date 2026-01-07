@@ -8,14 +8,21 @@ We don't submit to too many photography competitions, but we have been quite suc
 # Top Award winners in international photography competitions
 
 <img src="/assets/img/Featured/01.jpg" width="750px" class="center"/>
-*<span style="font-size: 0.75em;">'The Golden Refuge'. Photographed by Pratyay. OKlahoma, 2022. </span>*
+*<span style="font-size: 0.75em;">'The Golden Refuge'. Photographed by Pratyay. Oklahoma, 2022. </span>*
 <br>
 <br>
 <br>
 <br>
 
 <img src="/assets/img/Featured/02.jpg" width="100%"/>
-*<span style="font-size: 0.75em;">Scissor-tailed flycatcher. Photographed by Pratyay. OKlahoma, 2022. </span>*
+*<span style="font-size: 0.75em;">Scissor-tailed flycatcher. Photographed by Pratyay. Oklahoma, 2022. </span>*
+<br>
+<br>
+<br>
+<br>
+
+<img src="/assets/img/Featured/20.jpg" width="750px" class="center"/>
+*<span style="font-size: 0.75em;">'Singing in the rain'. Photographed by Pratyay. Hawaii, 2021. </span>* "
 <br>
 <br>
 <br>
