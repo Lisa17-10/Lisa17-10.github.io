@@ -9,6 +9,16 @@ See our recent photos of the months below. Older photos will be archived as we m
 <br>
 
 
+**Photo of December, 2025**
+
+<img src="/assets/img/POTM/2025/12.jpg" width="100%"/>
+*<span style="font-size: 0.75em;">'Looking the other way' photographed by Pratyay: Sometimes we look the other way, especially when the battle is not ours to fight! The Northern Cardinal seemed to be undisturbed by the intense battle between these two Harris’ Sparrows over a bare patch on the ground on a snowy day.  </span>*
+<br>
+<br>
+<br>
+<br>
+
+
 **Photo of November, 2025**
 
 <img src="/assets/img/POTM/2025/11.jpg" width="100%"/>
