@@ -17,8 +17,7 @@ gh-repo: Lisa17-10/Lisa17-10.github.io
 There was a terrible ice storm in Oklahoma exactly five years ago. It was extremely cold, raining all day, and the trees were having a hard time surviving with all the ice on them. Several trees fell in our neighborhood, and a lot of others lost big branches. The birds had a tough time. It was good to see that the tough little Yellow-rumped Warblers were quite resilient. This particular bird was actually quite active hopping around the icicles to catch insects (frozen food?). Here's an image of it posing with a catch.
 
 <img src="/assets/img/Shorts/2_IceStorm/1.jpg" class="center" width="100%"/>
-
-*<span style="font-size: 0.75em;">Monarch trying to take over the butterfly milkweed already occupied by the fritillary. </span>*
+*<span style="font-size: 0.75em;">Yellow-rumped Warbler with a spider catch</span>*
 
 The icicles on the branches and the leaves created some interesting shapes with "frozen hearts" and "ice covered pecans" abound! Everything was quite photogenic, but it was hard for the birds. 
 
@@ -30,7 +29,6 @@ The icicles on the branches and the leaves created some interesting shapes with 
 <img src="/assets/img/Shorts/2_IceStorm/4.jpg" class="center" width="100%"/>
 
 <img src="/assets/img/Shorts/2_IceStorm/5.jpg" class="center" width="100%"/>
-
 *<span style="font-size: 0.75em;">A Fox Squirrel navigating the icy terrain</span>*
 
 I found several hungry Yellow-rumped Warblers jumping around among the icicles. It was very photogenic, but hard for the birds.
@@ -44,14 +42,15 @@ I found several hungry Yellow-rumped Warblers jumping around among the icicles. 
 <img src="/assets/img/Shorts/2_IceStorm/9.jpg" class="center" width="100%"/>
 
 <img src="/assets/img/Shorts/2_IceStorm/10.jpg" class="center" width="100%"/>
-
 *<span style="font-size: 0.75em;">A Northern Mockingbird</span>*
 
 Even when it was not icy, the continuous rain and the low temperature made it quite miserable to stay out there. No wonder all the birds look grumpy!
 
 <img src="/assets/img/Shorts/2_IceStorm/11.jpg" class="center" width="100%"/>
+*<span style="font-size: 0.75em;">Eastern Bluebird</span>*
 
 <img src="/assets/img/Shorts/2_IceStorm/12.jpg" class="center" width="100%"/>
+*<span style="font-size: 0.75em;">Chipping Sparrow</span>*
 
 As this was not enough, a huge snowstorm rolled in 3 months later which nearly killed off all our local bluebirds. I have not seen a storm like that one in Oklahoma, but that's for another day.  
 
