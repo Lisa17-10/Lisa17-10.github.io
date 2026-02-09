@@ -8,7 +8,7 @@ See our recent photos of the months below. Older photos will be archived as we m
 
 <br>
 
-**Photo of December, 2025**
+**Photo of January, 2026**
 
 <img src="/assets/img/Featured/20.jpg" width="750px" class="center"/>
 *<span style="font-size: 0.75em;">'Singing in the rain'. Photographed by Pratyay. Iiwi on Mamane, Maui, Hawaii. </span>* 
