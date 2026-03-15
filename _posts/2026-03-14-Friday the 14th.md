@@ -16,7 +16,7 @@ gh-repo: Lisa17-10/Lisa17-10.github.io
 
 It was Friday, March 14, 2025. One of those dry, restless Oklahoma days when the wind never seems to stop moving.
 
-It was just before Spring Break. Parts of our small university were already quieter than usual. It was the day when Stillwater and several areas across Oklahoma were hit hard by wildfires. Fueled by dry conditions and powerful winds, fires ignited in multiple places and spread quickly across the landscape. When I came back home from work late in the afternoon, the air was already smelling like smoke, and the sky was dark orange.
+It was just before Spring Break. Parts of our small university town were already quieter than usual. It was the day when Stillwater and several areas across Oklahoma were hit hard by wildfires. Fueled by dry conditions and powerful winds, fires ignited in multiple places and spread quickly across the landscape. When I came back home from work late in the afternoon, the air was already smelling like smoke, and the sky was dark orange.
 
 <img src="/assets/img/Blogs/14_Friday_the_14/1.jpg" class="center" width="100%"/>
 *<span style="font-size: 0.75em;">Smokey sky</span>*
@@ -43,10 +43,12 @@ The sounds of life returned too. Pine Warblers were back, singing and establishi
 *<span style="font-size: 0.75em;">Pine Warbler singing from a burnt branch </span>*
 
 One small detail in the landscape caught my attention that day. A burnt pine stump stood alone in the open, and to my eye, its charred shape looked like the baby llama from the _Llama Llama_ books that we’ve been reading so often to Sreeja these days. I couldn’t help but wonder about it in that childlike way: Was he missing his mama? Did he not yet understand that Mama Llama is “always near even if she's not right here”?
+
 <img src="/assets/img/Blogs/14_Friday_the_14/5.jpg" class="center" width="100%"/>
 *<span style="font-size: 0.75em;">Llama Llama missing Mama?</span>*
 
 Over the past year, we’ve watched many of the burned areas slowly regenerate. New growth has been returning with surprising strength. In many ways, the community followed a similar path. During those difficult days, people across town showed up for one another —offering shelter, donating supplies, and simply checking in. The emergency responders had worked tirelessly to bring the fires under control. The flames had come within half a mile of our house. Things could have been far worse if it weren’t for people doing their jobs with dedication, courage, and care.
+
 <img src="/assets/img/Blogs/14_Friday_the_14/6.jpg" class="center" width="100%"/>
 *<span style="font-size: 0.75em;">Wild sunflowers blooming at a burn site, summer 2025 </span>*
 
