@@ -1,6 +1,6 @@
 ---
 title: Friday the 14th
-tags: Oklahoma, Throwback
+tags: [Oklahoma]
 share-img: /assets/img/Blogs/14_Friday_the_14/sharethumb.jpg
 thumbnail-img: /assets/img/Blogs/14_Friday_the_14/thumb.jpg
 permalink: /2026/03/14/Friday_the_14/
