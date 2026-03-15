@@ -1,11 +1,12 @@
 ---
 title: Friday the 14th
-tags:
+tags: Oklahoma, Throwback
 share-img: /assets/img/Blogs/14_Friday_the_14/sharethumb.jpg
 thumbnail-img: /assets/img/Blogs/14_Friday_the_14/thumb.jpg
 permalink: /2026/03/14/Friday_the_14/
 subtitle:
-excerpt:
+excerpt: It was Friday, March 14, 2025. One of those dry, restless Oklahoma days when the wind never seems to stop moving.
+It was just before Spring Break. Parts of our small university were already quieter than usual.
 cover-img: /assets/img/Blogs/14_Friday_the_14/cover.jpg
 category: Throwback
 gh-repo: Lisa17-10/Lisa17-10.github.io
