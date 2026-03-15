@@ -8,6 +8,17 @@ See our recent photos of the months below. Older photos will be archived as we m
 
 <br>
 
+**Photo of February, 2026**
+
+<img src="/assets/img/Featured/20.jpg" width="750px" class="center"/>
+*<span style="font-size: 0.75em;">'Heartbroken...'. Photographed by Pratyay. Cedar Waxwing on our pecan tree. </span>* 
+<br>
+<br>
+<br>
+<br>
+
+
+
 **Photo of January, 2026**
 
 <img src="/assets/img/Featured/20.jpg" width="750px" class="center"/>
